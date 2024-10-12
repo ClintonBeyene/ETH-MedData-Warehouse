@@ -119,7 +119,6 @@ def extract_phone_number(message):
     else:
         return None
 
-
 def extract_open_day_and_time(message):
     """
     Extracts the open day and time from a given message.
