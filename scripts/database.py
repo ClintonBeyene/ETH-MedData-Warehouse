@@ -15,6 +15,9 @@ DB_NAME = os.getenv("DB_NAME", "ETH-MedData-Warehouse")
 DB_USER = os.getenv("DB_USER", "postgres")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 
+# Create the engine
+engine = create_engine(f'postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}')
+
 class DbConn:
     def __init__(self):
         try:
