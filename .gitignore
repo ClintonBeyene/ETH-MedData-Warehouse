@@ -1,5 +1,5 @@
-lobelia4cosmetics_data.csv
-photos/
 venv/
 data/
 config/.env
+image/
+.env
