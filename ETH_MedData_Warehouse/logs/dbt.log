@@ -2560,3 +2560,290 @@ drop view if exists "ETH-MedData-Warehouse"."public"."my_second_dbt_model__dbt_b
 [0m02:32:39.639289 [debug] [MainThread]: Command `dbt run` succeeded at 02:32:39.639289 after 2.85 seconds
 [0m02:32:39.639289 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F105A28530>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F1053EC5C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001F105CD0CE0>]}
 [0m02:32:39.639289 [debug] [MainThread]: Flushing usage events
+[0m11:37:10.246721 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F1BE2990>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F1BE33B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F1D37200>]}
+
+
+============================== 11:37:10.261982 | 723a6621-ca14-4837-8317-a4a77bdeee15 ==============================
+[0m11:37:10.261982 [info ] [MainThread]: Running with dbt=1.8.7
+[0m11:37:10.265587 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'debug': 'False', 'log_path': 'C:\\Users\\Hp\\Desktop\\Kifiya\\Week7\\ETH-MedData-Warehouse\\ETH_MedData_Warehouse\\logs', 'fail_fast': 'False', 'profiles_dir': 'C:\\Users\\Hp\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'target_path': 'None', 'invocation_command': 'dbt run', 'send_anonymous_usage_stats': 'True'}
+[0m11:37:11.618036 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F0D7CE00>]}
+[0m11:37:11.812677 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170EF746ED0>]}
+[0m11:37:11.814702 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m11:37:11.836995 [debug] [MainThread]: checksum: 4af21dafb485259c48497ac86b711ddb1982f3d0f1c0ca4e09356de488b753c0, vars: {}, profile: , target: , version: 1.8.7
+[0m11:37:12.666870 [debug] [MainThread]: Partial parsing enabled: 3 files deleted, 0 files added, 1 files changed.
+[0m11:37:12.668807 [debug] [MainThread]: Partial parsing: deleted file: ETH_MedData_Warehouse://models\example\my_first_dbt_model.sql
+[0m11:37:12.670865 [debug] [MainThread]: Partial parsing: deleted file: ETH_MedData_Warehouse://models\example\my_second_dbt_model.sql
+[0m11:37:12.672870 [debug] [MainThread]: Partial parsing: updated file: ETH_MedData_Warehouse://models\lobeliapha_transformed.sql
+[0m11:37:13.309817 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.ETH_MedData_Warehouse.example
+[0m11:37:13.341120 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F321F440>]}
+[0m11:37:13.723094 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F33E2B70>]}
+[0m11:37:13.725098 [info ] [MainThread]: Found 2 models, 1 source, 423 macros
+[0m11:37:13.727094 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F20093A0>]}
+[0m11:37:13.733097 [info ] [MainThread]: 
+[0m11:37:13.736166 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m11:37:13.749182 [debug] [ThreadPool]: Acquiring new postgres connection 'list_ETH-MedData-Warehouse'
+[0m11:37:14.853404 [debug] [ThreadPool]: Using postgres connection "list_ETH-MedData-Warehouse"
+[0m11:37:14.855403 [debug] [ThreadPool]: On list_ETH-MedData-Warehouse: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "connection_name": "list_ETH-MedData-Warehouse"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m11:37:14.856404 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m11:37:15.075906 [debug] [ThreadPool]: SQL status: SELECT 4 in 0.219 seconds
+[0m11:37:15.082907 [debug] [ThreadPool]: On list_ETH-MedData-Warehouse: Close
+[0m11:37:15.086903 [debug] [ThreadPool]: Acquiring new postgres connection 'list_ETH-MedData-Warehouse_public'
+[0m11:37:15.102198 [debug] [ThreadPool]: Using postgres connection "list_ETH-MedData-Warehouse_public"
+[0m11:37:15.102198 [debug] [ThreadPool]: On list_ETH-MedData-Warehouse_public: BEGIN
+[0m11:37:15.103830 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m11:37:15.202479 [debug] [ThreadPool]: SQL status: BEGIN in 0.100 seconds
+[0m11:37:15.204906 [debug] [ThreadPool]: Using postgres connection "list_ETH-MedData-Warehouse_public"
+[0m11:37:15.206898 [debug] [ThreadPool]: On list_ETH-MedData-Warehouse_public: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "connection_name": "list_ETH-MedData-Warehouse_public"} */
+select
+      'ETH-MedData-Warehouse' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'public'
+    union all
+    select
+      'ETH-MedData-Warehouse' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'public'
+    union all
+    select
+      'ETH-MedData-Warehouse' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'public'
+  
+[0m11:37:15.230181 [debug] [ThreadPool]: SQL status: SELECT 5 in 0.022 seconds
+[0m11:37:15.232823 [debug] [ThreadPool]: On list_ETH-MedData-Warehouse_public: ROLLBACK
+[0m11:37:15.233841 [debug] [ThreadPool]: On list_ETH-MedData-Warehouse_public: Close
+[0m11:37:15.245352 [debug] [MainThread]: Using postgres connection "master"
+[0m11:37:15.246351 [debug] [MainThread]: On master: BEGIN
+[0m11:37:15.246586 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m11:37:15.336613 [debug] [MainThread]: SQL status: BEGIN in 0.089 seconds
+[0m11:37:15.337624 [debug] [MainThread]: Using postgres connection "master"
+[0m11:37:15.338623 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select distinct
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v', 'm')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+[0m11:37:15.371240 [debug] [MainThread]: SQL status: SELECT 1 in 0.031 seconds
+[0m11:37:15.375234 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F33E3BC0>]}
+[0m11:37:15.376231 [debug] [MainThread]: On master: ROLLBACK
+[0m11:37:15.377244 [debug] [MainThread]: Using postgres connection "master"
+[0m11:37:15.378233 [debug] [MainThread]: On master: BEGIN
+[0m11:37:15.380183 [debug] [MainThread]: SQL status: BEGIN in 0.001 seconds
+[0m11:37:15.381253 [debug] [MainThread]: On master: COMMIT
+[0m11:37:15.382186 [debug] [MainThread]: Using postgres connection "master"
+[0m11:37:15.383239 [debug] [MainThread]: On master: COMMIT
+[0m11:37:15.384242 [debug] [MainThread]: SQL status: COMMIT in 0.000 seconds
+[0m11:37:15.385250 [debug] [MainThread]: On master: Close
+[0m11:37:15.387236 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m11:37:15.389181 [info ] [MainThread]: 
+[0m11:37:15.406133 [debug] [Thread-1 (]: Began running node model.ETH_MedData_Warehouse.lobeliapha
+[0m11:37:15.408741 [info ] [Thread-1 (]: 1 of 2 START sql table model public.lobeliapha ................................. [RUN]
+[0m11:37:15.413304 [debug] [Thread-1 (]: Acquiring new postgres connection 'model.ETH_MedData_Warehouse.lobeliapha'
+[0m11:37:15.416492 [debug] [Thread-1 (]: Began compiling node model.ETH_MedData_Warehouse.lobeliapha
+[0m11:37:15.469375 [debug] [Thread-1 (]: Writing injected SQL for node "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.474403 [debug] [Thread-1 (]: Began executing node model.ETH_MedData_Warehouse.lobeliapha
+[0m11:37:15.681528 [debug] [Thread-1 (]: Writing runtime sql for node "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.687524 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.691513 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: BEGIN
+[0m11:37:15.695519 [debug] [Thread-1 (]: Opening a new connection, currently in state init
+[0m11:37:15.870484 [debug] [Thread-1 (]: SQL status: BEGIN in 0.175 seconds
+[0m11:37:15.871484 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.873488 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha"} */
+
+  
+    
+
+  create  table "ETH-MedData-Warehouse"."public"."lobeliapha__dbt_tmp"
+  
+  
+    as
+  
+  (
+    
+
+SELECT * 
+FROM public.lobeliacosmetics
+  );
+  
+[0m11:37:15.933983 [debug] [Thread-1 (]: SQL status: SELECT 494 in 0.058 seconds
+[0m11:37:15.944013 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.945014 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha"} */
+alter table "ETH-MedData-Warehouse"."public"."lobeliapha" rename to "lobeliapha__dbt_backup"
+[0m11:37:15.949529 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.004 seconds
+[0m11:37:15.954581 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.955583 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha"} */
+alter table "ETH-MedData-Warehouse"."public"."lobeliapha__dbt_tmp" rename to "lobeliapha"
+[0m11:37:15.957586 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.001 seconds
+[0m11:37:15.994537 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: COMMIT
+[0m11:37:15.995537 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:15.995537 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: COMMIT
+[0m11:37:16.006547 [debug] [Thread-1 (]: SQL status: COMMIT in 0.009 seconds
+[0m11:37:16.019668 [debug] [Thread-1 (]: Applying DROP to: "ETH-MedData-Warehouse"."public"."lobeliapha__dbt_backup"
+[0m11:37:16.034633 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha"
+[0m11:37:16.035683 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha"} */
+drop table if exists "ETH-MedData-Warehouse"."public"."lobeliapha__dbt_backup" cascade
+[0m11:37:16.089815 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.053 seconds
+[0m11:37:16.099875 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha: Close
+[0m11:37:16.107168 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170EF745E80>]}
+[0m11:37:16.111173 [info ] [Thread-1 (]: 1 of 2 OK created sql table model public.lobeliapha ............................ [[32mSELECT 494[0m in 0.69s]
+[0m11:37:16.117149 [debug] [Thread-1 (]: Finished running node model.ETH_MedData_Warehouse.lobeliapha
+[0m11:37:16.119368 [debug] [Thread-1 (]: Began running node model.ETH_MedData_Warehouse.lobeliapha_transformed
+[0m11:37:16.122103 [info ] [Thread-1 (]: 2 of 2 START sql table model public.lobeliapha_transformed ..................... [RUN]
+[0m11:37:16.125166 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.ETH_MedData_Warehouse.lobeliapha, now model.ETH_MedData_Warehouse.lobeliapha_transformed)
+[0m11:37:16.127567 [debug] [Thread-1 (]: Began compiling node model.ETH_MedData_Warehouse.lobeliapha_transformed
+[0m11:37:16.142138 [debug] [Thread-1 (]: Writing injected SQL for node "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.146755 [debug] [Thread-1 (]: Began executing node model.ETH_MedData_Warehouse.lobeliapha_transformed
+[0m11:37:16.171971 [debug] [Thread-1 (]: Writing runtime sql for node "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.177960 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.180979 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: BEGIN
+[0m11:37:16.182961 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m11:37:16.372032 [debug] [Thread-1 (]: SQL status: BEGIN in 0.189 seconds
+[0m11:37:16.373607 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.375639 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha_transformed"} */
+
+  
+    
+
+  create  table "ETH-MedData-Warehouse"."public"."lobeliapha_transformed__dbt_tmp"
+  
+  
+    as
+  
+  (
+    
+
+with filtered_data AS (
+    SELECT * 
+    FROM "ETH-MedData-Warehouse"."public"."lobeliacosmetics"
+)
+
+SELECT
+    "ID", 
+    Date,
+    Product_Name,
+    Weight,
+    Price,
+    "Telegram Address",
+    Address,
+    "Phone Number",
+    "Delivery Fee",
+    "Media Path"
+FROM filtered_data
+  );
+  
+[0m11:37:16.429548 [debug] [Thread-1 (]: SQL status: SELECT 494 in 0.050 seconds
+[0m11:37:16.455210 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.458206 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha_transformed"} */
+alter table "ETH-MedData-Warehouse"."public"."lobeliapha_transformed" rename to "lobeliapha_transformed__dbt_backup"
+[0m11:37:16.462206 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.002 seconds
+[0m11:37:16.475207 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.477208 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha_transformed"} */
+alter table "ETH-MedData-Warehouse"."public"."lobeliapha_transformed__dbt_tmp" rename to "lobeliapha_transformed"
+[0m11:37:16.481206 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.001 seconds
+[0m11:37:16.490211 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: COMMIT
+[0m11:37:16.492223 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.493220 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: COMMIT
+[0m11:37:16.500141 [debug] [Thread-1 (]: SQL status: COMMIT in 0.005 seconds
+[0m11:37:16.511613 [debug] [Thread-1 (]: Applying DROP to: "ETH-MedData-Warehouse"."public"."lobeliapha_transformed__dbt_backup"
+[0m11:37:16.515397 [debug] [Thread-1 (]: Using postgres connection "model.ETH_MedData_Warehouse.lobeliapha_transformed"
+[0m11:37:16.517625 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: /* {"app": "dbt", "dbt_version": "1.8.7", "profile_name": "ETH_MedData_Warehouse", "target_name": "dev", "node_id": "model.ETH_MedData_Warehouse.lobeliapha_transformed"} */
+drop table if exists "ETH-MedData-Warehouse"."public"."lobeliapha_transformed__dbt_backup" cascade
+[0m11:37:16.538842 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.018 seconds
+[0m11:37:16.545197 [debug] [Thread-1 (]: On model.ETH_MedData_Warehouse.lobeliapha_transformed: Close
+[0m11:37:16.548197 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '723a6621-ca14-4837-8317-a4a77bdeee15', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F3977260>]}
+[0m11:37:16.552813 [info ] [Thread-1 (]: 2 of 2 OK created sql table model public.lobeliapha_transformed ................ [[32mSELECT 494[0m in 0.42s]
+[0m11:37:16.560813 [debug] [Thread-1 (]: Finished running node model.ETH_MedData_Warehouse.lobeliapha_transformed
+[0m11:37:16.570674 [debug] [MainThread]: Using postgres connection "master"
+[0m11:37:16.574672 [debug] [MainThread]: On master: BEGIN
+[0m11:37:16.577781 [debug] [MainThread]: Opening a new connection, currently in state closed
+[0m11:37:16.722259 [debug] [MainThread]: SQL status: BEGIN in 0.145 seconds
+[0m11:37:16.723397 [debug] [MainThread]: On master: COMMIT
+[0m11:37:16.724629 [debug] [MainThread]: Using postgres connection "master"
+[0m11:37:16.725683 [debug] [MainThread]: On master: COMMIT
+[0m11:37:16.727369 [debug] [MainThread]: SQL status: COMMIT in 0.000 seconds
+[0m11:37:16.727903 [debug] [MainThread]: On master: Close
+[0m11:37:16.729100 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m11:37:16.730166 [debug] [MainThread]: Connection 'list_ETH-MedData-Warehouse' was properly closed.
+[0m11:37:16.730699 [debug] [MainThread]: Connection 'list_ETH-MedData-Warehouse_public' was properly closed.
+[0m11:37:16.731243 [debug] [MainThread]: Connection 'model.ETH_MedData_Warehouse.lobeliapha_transformed' was properly closed.
+[0m11:37:16.732379 [info ] [MainThread]: 
+[0m11:37:16.733511 [info ] [MainThread]: Finished running 2 table models in 0 hours 0 minutes and 3.00 seconds (3.00s).
+[0m11:37:16.735836 [debug] [MainThread]: Command end result
+[0m11:37:16.820202 [info ] [MainThread]: 
+[0m11:37:16.822194 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m11:37:16.824050 [info ] [MainThread]: 
+[0m11:37:16.826753 [info ] [MainThread]: Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+[0m11:37:16.831391 [debug] [MainThread]: Command `dbt run` succeeded at 11:37:16.830122 after 6.96 seconds
+[0m11:37:16.833992 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F1394860>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170EF745E80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000170F143F0E0>]}
+[0m11:37:16.835987 [debug] [MainThread]: Flushing usage events
