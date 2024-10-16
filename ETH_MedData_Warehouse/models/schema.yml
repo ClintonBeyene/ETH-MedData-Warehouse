@@ -4,10 +4,13 @@ sources:
     schema: public
     tables:
      - name: lobeliacosmetics
+     - name: detected_images
+     - name: Telegram
+     - name: Products
 
 models:
   - name: lobeliapha_transformed
-    decription: "Pharmacy Data Transformed"
+    description: "Pharmacy Data Transformed"
     columns:
       - name: ID
         description: "Unique Id for each message"
@@ -18,5 +21,42 @@ models:
         description: "Date of the message"
         data_test:
           - date
-        
 
+  - name: detected_images
+    description: "Detected Images Data Transformed"
+    columns:
+      - name: ID
+        description: "Unique Id for each image"
+        data_test:
+          - unique
+          - not_null
+      - name: Image
+        description: "Image data"
+        data_test:
+          - not_null
+
+  - name: Telegram
+    description: "Telegram Data Transformed"
+    columns:
+      - name: ID
+        description: "Unique Id for each message"
+        data_test:
+          - unique
+          - not_null
+      - name: date
+        description: "Date of the message"
+        data_test:
+          - date
+  
+  - name: products
+    description: "Products Data Transformed"
+    columns:
+      - name: ID
+        description: "Unique Id for each message"
+        data_test:
+          - unique
+          - not_null
+      - name: date
+        description: "Date of the message"
+        data_test:
+          - date
