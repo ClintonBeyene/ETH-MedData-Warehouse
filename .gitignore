@@ -3,3 +3,5 @@ data/
 config/.env
 image/
 .env
+data
+image

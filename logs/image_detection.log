@@ -1,0 +1,1798 @@
+2024-10-16 01:24:37,601 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 01:24:37,610 - INFO - Created output folder: C:/Users/Hp/Desktop/Kifiya/Week7/ETH-MedData-Warehouse/image/testing_detected/detected_images
+2024-10-16 01:24:37,620 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 01:24:38,034 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:24:38,034 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 01:24:38,497 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:24:38,498 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 01:24:38,789 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:24:38,791 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 01:24:39,241 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:24:39,243 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 01:24:39,837 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:24:39,837 - INFO - Image processing completed successfully.
+2024-10-16 01:25:06,735 - INFO - Loaded pre-trained YOLOv5 model: yolov5m successfully
+2024-10-16 01:25:06,741 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 01:25:07,541 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:25:07,541 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 01:25:08,167 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:25:08,167 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 01:25:08,952 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:25:08,952 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 01:25:09,699 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:25:09,699 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 01:25:10,565 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:25:10,567 - INFO - Image processing completed successfully.
+2024-10-16 01:25:20,935 - ERROR - Error loading model or processing images: Cannot find callable yolov51 in hubconf
+2024-10-16 01:26:20,849 - INFO - Loaded pre-trained YOLOv5 model: yolov5x successfully
+2024-10-16 01:26:20,851 - ERROR - Error loading model or processing images: [WinError 3] The system cannot find the path specified: '../image/photos'
+2024-10-16 01:27:38,553 - INFO - Loaded pre-trained YOLOv5 model: yolov5x successfully
+2024-10-16 01:27:38,563 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 01:27:40,518 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:27:40,520 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 01:27:42,319 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:27:42,324 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 01:27:45,601 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:27:45,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 01:27:49,167 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:27:49,183 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 01:27:52,026 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:27:52,037 - INFO - Image processing completed successfully.
+2024-10-16 01:37:12,273 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 01:37:12,273 - INFO - Created output folder: C:/Users/Hp/Desktop/Kifiya/Week7/ETH-MedData-Warehouse/image/testing_detected/detection_results
+2024-10-16 01:37:12,562 - INFO - Detections for @lobelia4cosmetics_10040.jpg:
+2024-10-16 01:37:12,586 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:37:12,641 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:37:12,847 - INFO - No detections found for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:37:13,069 - INFO - Detections for @lobelia4cosmetics_10042.jpg:
+2024-10-16 01:37:13,072 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:37:13,086 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:37:13,379 - INFO - No detections found for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:37:13,716 - INFO - No detections found for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:37:13,952 - INFO - No detections found for image: @lobelia4cosmetics_10045.jpg
+2024-10-16 01:37:14,232 - INFO - No detections found for image: @lobelia4cosmetics_10046.jpg
+2024-10-16 01:37:14,623 - INFO - No detections found for image: @lobelia4cosmetics_10047.jpg
+2024-10-16 01:37:14,859 - INFO - No detections found for image: @lobelia4cosmetics_10048.jpg
+2024-10-16 01:37:15,244 - INFO - No detections found for image: @lobelia4cosmetics_10049.jpg
+2024-10-16 01:37:15,464 - INFO - Detections for @lobelia4cosmetics_10050.jpg:
+2024-10-16 01:37:15,464 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.861932  649.881348  564.329163  956.756958  946.794128
+2024-10-16 01:37:15,490 - INFO - Saved detection results for image: @lobelia4cosmetics_10050.jpg
+2024-10-16 01:37:15,810 - INFO - No detections found for image: @lobelia4cosmetics_10051.jpg
+2024-10-16 01:37:16,024 - INFO - Detections for @lobelia4cosmetics_10052.jpg:
+2024-10-16 01:37:16,026 - INFO -       name  confidence        xmin        ymin        xmax        ymax
+0   person    0.892275  381.142426  170.724106  582.539429  471.182709
+1  frisbee    0.517341  577.593079  276.776917  734.930908  433.857025
+2024-10-16 01:37:16,038 - INFO - Saved detection results for image: @lobelia4cosmetics_10052.jpg
+2024-10-16 01:37:16,239 - INFO - No detections found for image: @lobelia4cosmetics_10053.jpg
+2024-10-16 01:37:16,468 - INFO - No detections found for image: @lobelia4cosmetics_10054.jpg
+2024-10-16 01:37:16,719 - INFO - No detections found for image: @lobelia4cosmetics_10058.jpg
+2024-10-16 01:37:16,932 - INFO - No detections found for image: @lobelia4cosmetics_10059.jpg
+2024-10-16 01:37:17,210 - INFO - Detections for @lobelia4cosmetics_10060.jpg:
+2024-10-16 01:37:17,212 - INFO -      name  confidence       xmin        ymin        xmax         ymax
+0  person    0.854438  386.62915  569.150818  798.967224  1072.493408
+2024-10-16 01:37:17,222 - INFO - Saved detection results for image: @lobelia4cosmetics_10060.jpg
+2024-10-16 01:37:17,455 - INFO - No detections found for image: @lobelia4cosmetics_10061.jpg
+2024-10-16 01:37:17,694 - INFO - No detections found for image: @lobelia4cosmetics_10062.jpg
+2024-10-16 01:37:17,903 - INFO - Detections for @lobelia4cosmetics_10063.jpg:
+2024-10-16 01:37:17,908 - INFO -   name  confidence       xmin        ymin        xmax        ymax
+0  cup    0.646768  71.777611  245.878174  149.468277  308.447205
+2024-10-16 01:37:17,916 - INFO - Saved detection results for image: @lobelia4cosmetics_10063.jpg
+2024-10-16 01:37:18,157 - INFO - No detections found for image: @lobelia4cosmetics_10064.jpg
+2024-10-16 01:37:18,375 - INFO - No detections found for image: @lobelia4cosmetics_10065.jpg
+2024-10-16 01:37:18,596 - INFO - No detections found for image: @lobelia4cosmetics_10066.jpg
+2024-10-16 01:37:18,818 - INFO - No detections found for image: @lobelia4cosmetics_10067.jpg
+2024-10-16 01:37:19,016 - INFO - No detections found for image: @lobelia4cosmetics_10068.jpg
+2024-10-16 01:37:19,246 - INFO - No detections found for image: @lobelia4cosmetics_10069.jpg
+2024-10-16 01:37:19,519 - INFO - Detections for @lobelia4cosmetics_10070.jpg:
+2024-10-16 01:37:19,521 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:37:19,521 - INFO - Saved detection results for image: @lobelia4cosmetics_10070.jpg
+2024-10-16 01:37:19,868 - INFO - No detections found for image: @lobelia4cosmetics_10071.jpg
+2024-10-16 01:37:20,168 - INFO - Detections for @lobelia4cosmetics_10072.jpg:
+2024-10-16 01:37:20,173 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.501196  657.153442  313.081970  952.058838  1231.496094
+1  bottle    0.355327  446.191406  312.021851  628.322998  1193.137085
+2024-10-16 01:37:20,192 - INFO - Saved detection results for image: @lobelia4cosmetics_10072.jpg
+2024-10-16 01:37:20,538 - INFO - Detections for @lobelia4cosmetics_10073.jpg:
+2024-10-16 01:37:20,538 - INFO -    name  confidence  xmin       ymin        xmax        ymax
+0  cake    0.253817   0.0  17.540194  447.217651  457.944214
+2024-10-16 01:37:20,579 - INFO - Saved detection results for image: @lobelia4cosmetics_10073.jpg
+2024-10-16 01:37:21,100 - INFO - Detections for @lobelia4cosmetics_10074.jpg:
+2024-10-16 01:37:21,105 - INFO -   name  confidence        xmin        ymin        xmax        ymax
+0  tie    0.606166  588.669495  433.453735  794.719543  892.057861
+1  tie    0.369171  415.280884  360.541809  595.559204  851.648865
+2  tie    0.289963  718.690857  402.654266  942.206604  824.351562
+2024-10-16 01:37:21,123 - INFO - Saved detection results for image: @lobelia4cosmetics_10074.jpg
+2024-10-16 01:37:21,459 - INFO - Detections for @lobelia4cosmetics_10075.jpg:
+2024-10-16 01:37:21,459 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.261821  70.572525  352.022614  247.676712  941.161011
+2024-10-16 01:37:21,491 - INFO - Saved detection results for image: @lobelia4cosmetics_10075.jpg
+2024-10-16 01:37:21,809 - INFO - No detections found for image: @lobelia4cosmetics_10076.jpg
+2024-10-16 01:37:22,120 - INFO - No detections found for image: @lobelia4cosmetics_10077.jpg
+2024-10-16 01:37:22,374 - INFO - No detections found for image: @lobelia4cosmetics_10078.jpg
+2024-10-16 01:37:22,623 - INFO - Detections for @lobelia4cosmetics_10079.jpg:
+2024-10-16 01:37:22,623 - INFO -   name  confidence       xmin        ymin        xmax       ymax
+0  cup    0.548626  99.793182  210.910767  174.323288  295.32785
+2024-10-16 01:37:22,651 - INFO - Saved detection results for image: @lobelia4cosmetics_10079.jpg
+2024-10-16 01:37:22,939 - INFO - Detections for @lobelia4cosmetics_10080.jpg:
+2024-10-16 01:37:22,939 - INFO -   name  confidence        xmin        ymin        xmax         ymax
+0  cup    0.785351  360.233795  782.483765  641.822266  1073.279785
+2024-10-16 01:37:22,963 - INFO - Saved detection results for image: @lobelia4cosmetics_10080.jpg
+2024-10-16 01:37:23,267 - INFO - No detections found for image: @lobelia4cosmetics_10081.jpg
+2024-10-16 01:37:23,538 - INFO - No detections found for image: @lobelia4cosmetics_10082.jpg
+2024-10-16 01:37:23,821 - INFO - No detections found for image: @lobelia4cosmetics_10083.jpg
+2024-10-16 01:37:24,165 - INFO - No detections found for image: @lobelia4cosmetics_10084.jpg
+2024-10-16 01:37:24,492 - INFO - No detections found for image: @lobelia4cosmetics_10085.jpg
+2024-10-16 01:37:24,820 - INFO - No detections found for image: @lobelia4cosmetics_10086.jpg
+2024-10-16 01:37:25,266 - INFO - No detections found for image: @lobelia4cosmetics_10087.jpg
+2024-10-16 01:37:25,588 - INFO - Detections for @lobelia4cosmetics_10088.jpg:
+2024-10-16 01:37:25,588 - INFO -       name  confidence        xmin        ymin         xmax        ymax
+0   orange    0.651067  139.897278  684.383362   274.718567  804.117371
+1    apple    0.593478  655.135925  846.802246   794.083069  986.809326
+2   orange    0.545961  462.394531  858.953247   607.903564  987.843994
+3   orange    0.508991  862.904907  685.561829   956.835693  800.884216
+4    apple    0.448015  323.679260  675.132507   388.085510  795.548767
+5    apple    0.401158  274.801361  636.340515   382.211578  774.034485
+6   orange    0.388854  386.991974  777.662292   456.453705  931.241028
+7    apple    0.360423  994.938904  666.499146  1142.079956  800.434448
+8   orange    0.352960  322.453949  679.394897   387.999481  797.897217
+9    apple    0.317703  385.638367  756.306702   458.495117  928.018860
+10  orange    0.296467   68.923004  595.958496   132.852203  758.495361
+2024-10-16 01:37:25,605 - INFO - Saved detection results for image: @lobelia4cosmetics_10088.jpg
+2024-10-16 01:37:25,922 - INFO - No detections found for image: @lobelia4cosmetics_10089.jpg
+2024-10-16 01:37:26,189 - INFO - No detections found for image: @lobelia4cosmetics_10090.jpg
+2024-10-16 01:37:26,455 - INFO - No detections found for image: @lobelia4cosmetics_10091.jpg
+2024-10-16 01:37:26,697 - INFO - No detections found for image: @lobelia4cosmetics_10092.jpg
+2024-10-16 01:37:26,922 - INFO - Detections for @lobelia4cosmetics_10093.jpg:
+2024-10-16 01:37:26,927 - INFO -      name  confidence        xmin       ymin        xmax        ymax
+0  bottle    0.332337  138.885742  83.928192  279.346039  550.979736
+1    book    0.312232  142.670700  98.550171  277.198517  543.302368
+2024-10-16 01:37:26,949 - INFO - Saved detection results for image: @lobelia4cosmetics_10093.jpg
+2024-10-16 01:37:27,255 - INFO - No detections found for image: @lobelia4cosmetics_10094.jpg
+2024-10-16 01:37:27,522 - INFO - Detections for @lobelia4cosmetics_10095.jpg:
+2024-10-16 01:37:27,537 - INFO -            name  confidence        xmin        ymin        xmax        ymax
+0        bottle    0.428631  456.905365  198.558640  682.092651  743.703491
+1        bottle    0.335330  178.539658  239.647415  373.393646  718.351318
+2  refrigerator    0.328700   31.581818   45.389332  380.216553  733.392639
+2024-10-16 01:37:27,554 - INFO - Saved detection results for image: @lobelia4cosmetics_10095.jpg
+2024-10-16 01:37:27,827 - INFO - Detections for @lobelia4cosmetics_10096.jpg:
+2024-10-16 01:37:27,827 - INFO -      name  confidence        xmin       ymin        xmax   ymax
+0  bottle    0.388069  109.290985  11.318664  302.621674  600.0
+2024-10-16 01:37:27,838 - INFO - Saved detection results for image: @lobelia4cosmetics_10096.jpg
+2024-10-16 01:37:28,171 - INFO - Detections for @lobelia4cosmetics_10097.jpg:
+2024-10-16 01:37:28,177 - INFO -      name  confidence       xmin  ymin        xmax        ymax
+0  bottle    0.434455  160.30098   0.0  351.007568  496.128082
+2024-10-16 01:37:28,199 - INFO - Saved detection results for image: @lobelia4cosmetics_10097.jpg
+2024-10-16 01:37:28,522 - INFO - No detections found for image: @lobelia4cosmetics_10098.jpg
+2024-10-16 01:37:29,053 - INFO - No detections found for image: @lobelia4cosmetics_10099.jpg
+2024-10-16 01:37:29,363 - INFO - Detections for @lobelia4cosmetics_10100.jpg:
+2024-10-16 01:37:29,363 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0    book    0.575717  254.181396  912.326172  782.529419  1020.054077
+1  person    0.330363  591.487793  481.116455  765.717163   928.665039
+2024-10-16 01:37:29,378 - INFO - Saved detection results for image: @lobelia4cosmetics_10100.jpg
+2024-10-16 01:37:29,711 - INFO - No detections found for image: @lobelia4cosmetics_10101.jpg
+2024-10-16 01:37:30,015 - INFO - Detections for @lobelia4cosmetics_10102.jpg:
+2024-10-16 01:37:30,015 - INFO -      name  confidence        xmin       ymin        xmax         ymax
+0  bottle    0.457665  384.009552  18.159668  896.508057  1230.741211
+2024-10-16 01:37:30,031 - INFO - Saved detection results for image: @lobelia4cosmetics_10102.jpg
+2024-10-16 01:37:30,299 - INFO - No detections found for image: @lobelia4cosmetics_10103.jpg
+2024-10-16 01:37:30,673 - INFO - No detections found for image: @lobelia4cosmetics_10104.jpg
+2024-10-16 01:37:30,975 - INFO - Detections for @lobelia4cosmetics_10105.jpg:
+2024-10-16 01:37:30,975 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.269005  59.966007  436.428192  980.326538  947.787842
+2024-10-16 01:37:30,991 - INFO - Saved detection results for image: @lobelia4cosmetics_10105.jpg
+2024-10-16 01:37:31,421 - INFO - No detections found for image: @lobelia4cosmetics_10106.jpg
+2024-10-16 01:37:31,706 - INFO - Detections for @lobelia4cosmetics_10107.jpg:
+2024-10-16 01:37:31,710 - INFO -         name  confidence        xmin      ymin        xmax        ymax
+0  stop sign    0.307687  197.729141  3.095779  638.579224  752.006042
+2024-10-16 01:37:31,728 - INFO - Saved detection results for image: @lobelia4cosmetics_10107.jpg
+2024-10-16 01:37:31,962 - INFO - Detections for @lobelia4cosmetics_10108.jpg:
+2024-10-16 01:37:31,962 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0   apple    0.379300  111.969223  338.481842  188.541824   380.474518
+1  orange    0.357907  531.034668  726.901184  726.399292  1147.414307
+2024-10-16 01:37:31,985 - INFO - Saved detection results for image: @lobelia4cosmetics_10108.jpg
+2024-10-16 01:37:32,357 - INFO - Detections for @lobelia4cosmetics_10109.jpg:
+2024-10-16 01:37:32,361 - INFO -         name  confidence        xmin         ymin         xmax         ymax
+0  stop sign    0.488921  500.146942   475.912537  1064.549072  1059.758545
+1     orange    0.433504   89.510468  1048.622437   345.968262  1266.587280
+2024-10-16 01:37:32,385 - INFO - Saved detection results for image: @lobelia4cosmetics_10109.jpg
+2024-10-16 01:37:32,703 - INFO - Detections for @lobelia4cosmetics_10110.jpg:
+2024-10-16 01:37:32,709 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.542075  316.487823  259.227722  515.913269  582.338013
+2024-10-16 01:37:32,725 - INFO - Saved detection results for image: @lobelia4cosmetics_10110.jpg
+2024-10-16 01:37:32,999 - INFO - No detections found for image: @lobelia4cosmetics_10111.jpg
+2024-10-16 01:37:33,307 - INFO - No detections found for image: @lobelia4cosmetics_10112.jpg
+2024-10-16 01:37:33,552 - INFO - Detections for @lobelia4cosmetics_10113.jpg:
+2024-10-16 01:37:33,557 - INFO -   name  confidence      xmin        ymin        xmax        ymax
+0  cup     0.31478  5.207767  249.310028  301.134003  793.937805
+2024-10-16 01:37:33,576 - INFO - Saved detection results for image: @lobelia4cosmetics_10113.jpg
+2024-10-16 01:37:33,899 - INFO - Detections for @lobelia4cosmetics_10114.jpg:
+2024-10-16 01:37:33,904 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:37:33,920 - INFO - Saved detection results for image: @lobelia4cosmetics_10114.jpg
+2024-10-16 01:37:34,139 - INFO - No detections found for image: @lobelia4cosmetics_10115.jpg
+2024-10-16 01:37:34,394 - INFO - Detections for @lobelia4cosmetics_10116.jpg:
+2024-10-16 01:37:34,397 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:37:34,420 - INFO - Saved detection results for image: @lobelia4cosmetics_10116.jpg
+2024-10-16 01:37:34,777 - INFO - No detections found for image: @lobelia4cosmetics_10117.jpg
+2024-10-16 01:37:35,158 - INFO - No detections found for image: @lobelia4cosmetics_10118.jpg
+2024-10-16 01:37:35,476 - INFO - No detections found for image: @lobelia4cosmetics_10119.jpg
+2024-10-16 01:37:36,218 - INFO - No detections found for image: @lobelia4cosmetics_10120.jpg
+2024-10-16 01:37:36,820 - INFO - No detections found for image: @lobelia4cosmetics_10121.jpg
+2024-10-16 01:37:37,155 - INFO - No detections found for image: @lobelia4cosmetics_10122.jpg
+2024-10-16 01:37:37,484 - INFO - No detections found for image: @lobelia4cosmetics_10123.jpg
+2024-10-16 01:37:37,820 - INFO - Detections for @lobelia4cosmetics_10124.jpg:
+2024-10-16 01:37:37,820 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.861932  649.881348  564.329163  956.756958  946.794128
+2024-10-16 01:37:37,837 - INFO - Saved detection results for image: @lobelia4cosmetics_10124.jpg
+2024-10-16 01:37:38,150 - INFO - No detections found for image: @lobelia4cosmetics_10125.jpg
+2024-10-16 01:37:38,438 - INFO - Detections for @lobelia4cosmetics_10126.jpg:
+2024-10-16 01:37:38,438 - INFO -       name  confidence        xmin        ymin        xmax        ymax
+0   person    0.892275  381.142426  170.724106  582.539429  471.182709
+1  frisbee    0.517341  577.593079  276.776917  734.930908  433.857025
+2024-10-16 01:37:38,453 - INFO - Saved detection results for image: @lobelia4cosmetics_10126.jpg
+2024-10-16 01:37:38,734 - INFO - No detections found for image: @lobelia4cosmetics_10127.jpg
+2024-10-16 01:37:39,093 - INFO - No detections found for image: @lobelia4cosmetics_10128.jpg
+2024-10-16 01:37:39,456 - INFO - Detections for @lobelia4cosmetics_10129.jpg:
+2024-10-16 01:37:39,462 - INFO -      name  confidence       xmin        ymin        xmax         ymax
+0  person    0.854438  386.62915  569.150818  798.967224  1072.493408
+2024-10-16 01:37:39,483 - INFO - Saved detection results for image: @lobelia4cosmetics_10129.jpg
+2024-10-16 01:37:39,746 - INFO - Detections for @lobelia4cosmetics_10130.jpg:
+2024-10-16 01:37:39,746 - INFO -    name  confidence        xmin       ymin        xmax         ymax
+0  book    0.429747  461.223419  36.443298  904.627563  1140.320557
+1  book    0.329773   29.207718  25.515686  494.304321  1146.235107
+2024-10-16 01:37:39,762 - INFO - Saved detection results for image: @lobelia4cosmetics_10130.jpg
+2024-10-16 01:37:40,149 - INFO - No detections found for image: @lobelia4cosmetics_10131.jpg
+2024-10-16 01:37:40,529 - INFO - No detections found for image: @lobelia4cosmetics_10132.jpg
+2024-10-16 01:37:40,920 - INFO - No detections found for image: @lobelia4cosmetics_10133.jpg
+2024-10-16 01:37:41,275 - INFO - Detections for @lobelia4cosmetics_10134.jpg:
+2024-10-16 01:37:41,275 - INFO -   name  confidence       xmin        ymin        xmax        ymax
+0  cup    0.646768  71.777611  245.878174  149.468277  308.447205
+2024-10-16 01:37:41,299 - INFO - Saved detection results for image: @lobelia4cosmetics_10134.jpg
+2024-10-16 01:37:41,741 - INFO - No detections found for image: @lobelia4cosmetics_10135.jpg
+2024-10-16 01:37:42,062 - INFO - No detections found for image: @lobelia4cosmetics_10136.jpg
+2024-10-16 01:37:42,421 - INFO - No detections found for image: @lobelia4cosmetics_10137.jpg
+2024-10-16 01:37:42,749 - INFO - No detections found for image: @lobelia4cosmetics_10138.jpg
+2024-10-16 01:37:43,089 - INFO - No detections found for image: @lobelia4cosmetics_10139.jpg
+2024-10-16 01:37:43,369 - INFO - No detections found for image: @lobelia4cosmetics_10140.jpg
+2024-10-16 01:37:43,687 - INFO - No detections found for image: @lobelia4cosmetics_10141.jpg
+2024-10-16 01:37:43,987 - INFO - Detections for @lobelia4cosmetics_10142.jpg:
+2024-10-16 01:37:44,003 - INFO -       name  confidence        xmin        ymin         xmax        ymax
+0   orange    0.651067  139.897278  684.383362   274.718567  804.117371
+1    apple    0.593478  655.135925  846.802246   794.083069  986.809326
+2   orange    0.545961  462.394531  858.953247   607.903564  987.843994
+3   orange    0.508991  862.904907  685.561829   956.835693  800.884216
+4    apple    0.448015  323.679260  675.132507   388.085510  795.548767
+5    apple    0.401158  274.801361  636.340515   382.211578  774.034485
+6   orange    0.388854  386.991974  777.662292   456.453705  931.241028
+7    apple    0.360423  994.938904  666.499146  1142.079956  800.434448
+8   orange    0.352960  322.453949  679.394897   387.999481  797.897217
+9    apple    0.317703  385.638367  756.306702   458.495117  928.018860
+10  orange    0.296467   68.923004  595.958496   132.852203  758.495361
+2024-10-16 01:37:44,027 - INFO - Saved detection results for image: @lobelia4cosmetics_10142.jpg
+2024-10-16 01:37:44,361 - INFO - No detections found for image: @lobelia4cosmetics_10143.jpg
+2024-10-16 01:37:44,693 - INFO - No detections found for image: @lobelia4cosmetics_10144.jpg
+2024-10-16 01:37:45,003 - INFO - Detections for @lobelia4cosmetics_10145.jpg:
+2024-10-16 01:37:45,009 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle     0.33296  320.581543  224.795288  637.528015  1200.781372
+2024-10-16 01:37:45,027 - INFO - Saved detection results for image: @lobelia4cosmetics_10145.jpg
+2024-10-16 01:37:45,327 - INFO - No detections found for image: @lobelia4cosmetics_10146.jpg
+2024-10-16 01:37:45,671 - INFO - Detections for @lobelia4cosmetics_10147.jpg:
+2024-10-16 01:37:45,671 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.442317  627.069946  268.439575  945.952393  1198.739502
+2024-10-16 01:37:45,697 - INFO - Saved detection results for image: @lobelia4cosmetics_10147.jpg
+2024-10-16 01:37:45,989 - INFO - No detections found for image: @lobelia4cosmetics_10148.jpg
+2024-10-16 01:37:46,444 - INFO - Detections for @lobelia4cosmetics_10149.jpg:
+2024-10-16 01:37:46,447 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.837817  239.710205  600.867188  376.743317  748.357544
+1  person    0.783029  350.394714  557.036743  450.975189  739.511780
+2  person    0.647013  600.788635  674.330078  675.920471  815.240356
+3  person    0.585273  429.727112  549.247009  537.696838  852.276733
+4  person    0.580514  558.670532  704.565674  631.774597  838.042358
+5  bottle    0.552930  538.359314  306.540680  790.365112  858.194336
+6  person    0.397497  545.091980  674.166870  583.348450  789.676514
+7  person    0.301429  543.741516  681.182068  603.988586  830.842163
+2024-10-16 01:37:46,468 - INFO - Saved detection results for image: @lobelia4cosmetics_10149.jpg
+2024-10-16 01:37:46,765 - INFO - No detections found for image: @lobelia4cosmetics_10150.jpg
+2024-10-16 01:37:47,029 - INFO - No detections found for image: @lobelia4cosmetics_10151.jpg
+2024-10-16 01:37:47,279 - INFO - No detections found for image: @lobelia4cosmetics_10152.jpg
+2024-10-16 01:37:47,587 - INFO - No detections found for image: @lobelia4cosmetics_10153.jpg
+2024-10-16 01:37:48,045 - INFO - No detections found for image: @lobelia4cosmetics_10154.jpg
+2024-10-16 01:37:48,419 - INFO - No detections found for image: @lobelia4cosmetics_10155.jpg
+2024-10-16 01:37:48,776 - INFO - Detections for @lobelia4cosmetics_10156.jpg:
+2024-10-16 01:37:48,776 - INFO -     name  confidence        xmin        ymin        xmax        ymax
+0  apple    0.475013  410.698364  901.612305  478.663391  972.098511
+2024-10-16 01:37:48,806 - INFO - Saved detection results for image: @lobelia4cosmetics_10156.jpg
+2024-10-16 01:37:49,153 - INFO - Detections for @lobelia4cosmetics_10157.jpg:
+2024-10-16 01:37:49,157 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0   apple    0.679946  407.916412   996.978638  495.407806  1088.528442
+1  bottle    0.355741  355.356506    31.494263  912.686462  1239.177490
+2   apple    0.308228  579.835266  1054.498535  676.618469  1108.602051
+2024-10-16 01:37:49,177 - INFO - Saved detection results for image: @lobelia4cosmetics_10157.jpg
+2024-10-16 01:37:49,482 - INFO - No detections found for image: @lobelia4cosmetics_10158.jpg
+2024-10-16 01:37:49,822 - INFO - No detections found for image: @lobelia4cosmetics_10159.jpg
+2024-10-16 01:37:50,140 - INFO - No detections found for image: @lobelia4cosmetics_10160.jpg
+2024-10-16 01:37:50,412 - INFO - No detections found for image: @lobelia4cosmetics_10161.jpg
+2024-10-16 01:37:50,694 - INFO - No detections found for image: @lobelia4cosmetics_10162.jpg
+2024-10-16 01:37:50,957 - INFO - Detections for @lobelia4cosmetics_10163.jpg:
+2024-10-16 01:37:50,960 - INFO -   name  confidence       xmin       ymin       xmax      ymax
+0  cup    0.271512  197.35994  60.410221  442.45108  606.6698
+2024-10-16 01:37:50,981 - INFO - Saved detection results for image: @lobelia4cosmetics_10163.jpg
+2024-10-16 01:37:51,287 - INFO - No detections found for image: @lobelia4cosmetics_10164.jpg
+2024-10-16 01:37:51,563 - INFO - Detections for @lobelia4cosmetics_10165.jpg:
+2024-10-16 01:37:51,567 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.542075  316.487823  259.227722  515.913269  582.338013
+2024-10-16 01:37:51,586 - INFO - Saved detection results for image: @lobelia4cosmetics_10165.jpg
+2024-10-16 01:37:51,876 - INFO - No detections found for image: @lobelia4cosmetics_10166.jpg
+2024-10-16 01:37:52,222 - INFO - Detections for @lobelia4cosmetics_10167.jpg:
+2024-10-16 01:37:52,223 - INFO -      name  confidence        xmin       ymin        xmax        ymax
+0  bottle    0.302835  345.213257  27.171076  849.627319  1115.98938
+2024-10-16 01:37:52,239 - INFO - Saved detection results for image: @lobelia4cosmetics_10167.jpg
+2024-10-16 01:37:52,733 - INFO - Detections for @lobelia4cosmetics_10168.jpg:
+2024-10-16 01:37:52,733 - INFO -      name  confidence       xmin  ymin        xmax        ymax
+0  bottle    0.434455  160.30098   0.0  351.007568  496.128082
+2024-10-16 01:37:52,765 - INFO - Saved detection results for image: @lobelia4cosmetics_10168.jpg
+2024-10-16 01:37:53,098 - INFO - No detections found for image: @lobelia4cosmetics_10169.jpg
+2024-10-16 01:37:53,510 - INFO - No detections found for image: @lobelia4cosmetics_10170.jpg
+2024-10-16 01:37:53,854 - INFO - Detections for @lobelia4cosmetics_10171.jpg:
+2024-10-16 01:37:53,864 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0    book    0.575717  254.181396  912.326172  782.529419  1020.054077
+1  person    0.330363  591.487793  481.116455  765.717163   928.665039
+2024-10-16 01:37:53,872 - INFO - Saved detection results for image: @lobelia4cosmetics_10171.jpg
+2024-10-16 01:37:54,204 - INFO - No detections found for image: @lobelia4cosmetics_10172.jpg
+2024-10-16 01:37:54,563 - INFO - Detections for @lobelia4cosmetics_10173.jpg:
+2024-10-16 01:37:54,572 - INFO -      name  confidence        xmin       ymin        xmax         ymax
+0  bottle    0.457665  384.009552  18.159668  896.508057  1230.741211
+2024-10-16 01:37:54,588 - INFO - Saved detection results for image: @lobelia4cosmetics_10173.jpg
+2024-10-16 01:37:54,844 - INFO - No detections found for image: @lobelia4cosmetics_10174.jpg
+2024-10-16 01:37:55,127 - INFO - No detections found for image: @lobelia4cosmetics_10175.jpg
+2024-10-16 01:37:55,415 - INFO - Detections for @lobelia4cosmetics_10176.jpg:
+2024-10-16 01:37:55,421 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.269005  59.966007  436.428192  980.326538  947.787842
+2024-10-16 01:37:55,437 - INFO - Saved detection results for image: @lobelia4cosmetics_10176.jpg
+2024-10-16 01:37:55,745 - INFO - No detections found for image: @lobelia4cosmetics_10177.jpg
+2024-10-16 01:37:56,021 - INFO - Detections for @lobelia4cosmetics_10178.jpg:
+2024-10-16 01:37:56,021 - INFO -         name  confidence        xmin      ymin        xmax        ymax
+0  stop sign    0.307687  197.729141  3.095779  638.579224  752.006042
+2024-10-16 01:37:56,037 - INFO - Saved detection results for image: @lobelia4cosmetics_10178.jpg
+2024-10-16 01:37:56,278 - INFO - Detections for @lobelia4cosmetics_10179.jpg:
+2024-10-16 01:37:56,282 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0   apple    0.379300  111.969223  338.481842  188.541824   380.474518
+1  orange    0.357907  531.034668  726.901184  726.399292  1147.414307
+2024-10-16 01:37:56,287 - INFO - Saved detection results for image: @lobelia4cosmetics_10179.jpg
+2024-10-16 01:37:56,654 - INFO - Detections for @lobelia4cosmetics_10180.jpg:
+2024-10-16 01:37:56,664 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.542075  316.487823  259.227722  515.913269  582.338013
+2024-10-16 01:37:56,691 - INFO - Saved detection results for image: @lobelia4cosmetics_10180.jpg
+2024-10-16 01:37:57,020 - INFO - No detections found for image: @lobelia4cosmetics_10181.jpg
+2024-10-16 01:37:57,304 - INFO - No detections found for image: @lobelia4cosmetics_10182.jpg
+2024-10-16 01:37:57,613 - INFO - No detections found for image: @lobelia4cosmetics_10183.jpg
+2024-10-16 01:37:57,920 - INFO - Detections for @lobelia4cosmetics_10186.jpg:
+2024-10-16 01:37:57,921 - INFO -             name  confidence        xmin        ymin        xmax         ymax
+0  parking meter    0.420197  296.751068  132.006012  968.405151  1143.936646
+1            cup    0.279941  297.346558  130.160706  971.870728  1168.945801
+2024-10-16 01:37:57,941 - INFO - Saved detection results for image: @lobelia4cosmetics_10186.jpg
+2024-10-16 01:37:58,262 - INFO - No detections found for image: @lobelia4cosmetics_10187.jpg
+2024-10-16 01:37:58,738 - INFO - Detections for @lobelia4cosmetics_10188.jpg:
+2024-10-16 01:37:58,738 - INFO -         name  confidence        xmin       ymin        xmax        ymax
+0  stop sign    0.457503  260.943817  167.32074  301.444611  228.760498
+2024-10-16 01:37:58,762 - INFO - Saved detection results for image: @lobelia4cosmetics_10188.jpg
+2024-10-16 01:37:59,072 - INFO - No detections found for image: @lobelia4cosmetics_10189.jpg
+2024-10-16 01:37:59,440 - INFO - No detections found for image: @lobelia4cosmetics_10190.jpg
+2024-10-16 01:37:59,744 - INFO - No detections found for image: @lobelia4cosmetics_10191.jpg
+2024-10-16 01:38:00,061 - INFO - No detections found for image: @lobelia4cosmetics_10192.jpg
+2024-10-16 01:38:00,293 - INFO - No detections found for image: @lobelia4cosmetics_10193.jpg
+2024-10-16 01:38:00,721 - INFO - Detections for @lobelia4cosmetics_10194.jpg:
+2024-10-16 01:38:00,738 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:38:00,767 - INFO - Saved detection results for image: @lobelia4cosmetics_10194.jpg
+2024-10-16 01:38:01,129 - INFO - No detections found for image: @lobelia4cosmetics_10195.jpg
+2024-10-16 01:38:01,408 - INFO - Detections for @lobelia4cosmetics_10196.jpg:
+2024-10-16 01:38:01,408 - INFO -      name  confidence        xmin      ymin        xmax        ymax
+0  bottle    0.410454  143.246155  27.12513  406.199951  782.417908
+2024-10-16 01:38:01,437 - INFO - Saved detection results for image: @lobelia4cosmetics_10196.jpg
+2024-10-16 01:38:01,808 - INFO - No detections found for image: @lobelia4cosmetics_10197.jpg
+2024-10-16 01:38:02,191 - INFO - No detections found for image: @lobelia4cosmetics_10198.jpg
+2024-10-16 01:38:02,627 - INFO - No detections found for image: @lobelia4cosmetics_10199.jpg
+2024-10-16 01:38:02,948 - INFO - Detections for @lobelia4cosmetics_10200.jpg:
+2024-10-16 01:38:02,951 - INFO -         name  confidence        xmin       ymin        xmax        ymax
+0  stop sign    0.457503  260.943817  167.32074  301.444611  228.760498
+2024-10-16 01:38:02,966 - INFO - Saved detection results for image: @lobelia4cosmetics_10200.jpg
+2024-10-16 01:38:03,245 - INFO - No detections found for image: @lobelia4cosmetics_10201.jpg
+2024-10-16 01:38:03,579 - INFO - No detections found for image: @lobelia4cosmetics_10202.jpg
+2024-10-16 01:38:03,940 - INFO - No detections found for image: @lobelia4cosmetics_10203.jpg
+2024-10-16 01:38:04,395 - INFO - Detections for @lobelia4cosmetics_10204.jpg:
+2024-10-16 01:38:04,400 - INFO -    name  confidence  xmin       ymin        xmax        ymax
+0  cake    0.253817   0.0  17.540194  447.217651  457.944214
+2024-10-16 01:38:04,421 - INFO - Saved detection results for image: @lobelia4cosmetics_10204.jpg
+2024-10-16 01:38:04,912 - INFO - Detections for @lobelia4cosmetics_10205.jpg:
+2024-10-16 01:38:04,917 - INFO -   name  confidence        xmin        ymin        xmax        ymax
+0  tie    0.606166  588.669495  433.453735  794.719543  892.057861
+1  tie    0.369171  415.280884  360.541809  595.559204  851.648865
+2  tie    0.289963  718.690857  402.654266  942.206604  824.351562
+2024-10-16 01:38:04,942 - INFO - Saved detection results for image: @lobelia4cosmetics_10205.jpg
+2024-10-16 01:38:05,274 - INFO - Detections for @lobelia4cosmetics_10206.jpg:
+2024-10-16 01:38:05,288 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.261821  70.572525  352.022614  247.676712  941.161011
+2024-10-16 01:38:05,305 - INFO - Saved detection results for image: @lobelia4cosmetics_10206.jpg
+2024-10-16 01:38:05,803 - INFO - No detections found for image: @lobelia4cosmetics_10207.jpg
+2024-10-16 01:38:06,172 - INFO - No detections found for image: @lobelia4cosmetics_10208.jpg
+2024-10-16 01:38:06,483 - INFO - No detections found for image: @lobelia4cosmetics_10209.jpg
+2024-10-16 01:38:06,741 - INFO - Detections for @lobelia4cosmetics_10210.jpg:
+2024-10-16 01:38:06,744 - INFO -      name  confidence       xmin  ymin        xmax        ymax
+0  bottle    0.434455  160.30098   0.0  351.007568  496.128082
+2024-10-16 01:38:06,750 - INFO - Saved detection results for image: @lobelia4cosmetics_10210.jpg
+2024-10-16 01:38:07,025 - INFO - Detections for @lobelia4cosmetics_10211.jpg:
+2024-10-16 01:38:07,026 - INFO -      name  confidence        xmin        ymin       xmax         ymax
+0  bottle    0.765947  465.092712  146.250916  818.17804  1170.099121
+2024-10-16 01:38:07,037 - INFO - Saved detection results for image: @lobelia4cosmetics_10211.jpg
+2024-10-16 01:38:07,363 - INFO - No detections found for image: @lobelia4cosmetics_10212.jpg
+2024-10-16 01:38:07,662 - INFO - Detections for @lobelia4cosmetics_10213.jpg:
+2024-10-16 01:38:07,662 - INFO -      name  confidence        xmin        ymin         xmax        ymax
+0  bottle    0.775842  436.848633   56.708302   631.658875  652.476562
+1  bottle    0.475195   67.561539  161.367218   388.041840  934.827393
+2  bottle    0.402945  703.381470  165.745651  1016.884460  932.613464
+2024-10-16 01:38:07,669 - INFO - Saved detection results for image: @lobelia4cosmetics_10213.jpg
+2024-10-16 01:38:07,979 - INFO - No detections found for image: @lobelia4cosmetics_10214.jpg
+2024-10-16 01:38:08,287 - INFO - No detections found for image: @lobelia4cosmetics_10216.jpg
+2024-10-16 01:38:08,664 - INFO - No detections found for image: @lobelia4cosmetics_10217.jpg
+2024-10-16 01:38:08,968 - INFO - Detections for @lobelia4cosmetics_10218.jpg:
+2024-10-16 01:38:08,968 - INFO -    name  confidence  xmin       ymin        xmax        ymax
+0  cake    0.253817   0.0  17.540194  447.217651  457.944214
+2024-10-16 01:38:08,983 - INFO - Saved detection results for image: @lobelia4cosmetics_10218.jpg
+2024-10-16 01:38:09,313 - INFO - Detections for @lobelia4cosmetics_10219.jpg:
+2024-10-16 01:38:09,313 - INFO -   name  confidence        xmin        ymin        xmax        ymax
+0  tie    0.606166  588.669495  433.453735  794.719543  892.057861
+1  tie    0.369171  415.280884  360.541809  595.559204  851.648865
+2  tie    0.289963  718.690857  402.654266  942.206604  824.351562
+2024-10-16 01:38:09,345 - INFO - Saved detection results for image: @lobelia4cosmetics_10219.jpg
+2024-10-16 01:38:09,686 - INFO - Detections for @lobelia4cosmetics_10220.jpg:
+2024-10-16 01:38:09,686 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.261821  70.572525  352.022614  247.676712  941.161011
+2024-10-16 01:38:09,712 - INFO - Saved detection results for image: @lobelia4cosmetics_10220.jpg
+2024-10-16 01:38:10,054 - INFO - Detections for @lobelia4cosmetics_10221.jpg:
+2024-10-16 01:38:10,063 - INFO -      name  confidence       xmin        ymin        xmax        ymax
+0  person    0.559679  549.62677  472.273438  792.126282  861.825806
+2024-10-16 01:38:10,071 - INFO - Saved detection results for image: @lobelia4cosmetics_10221.jpg
+2024-10-16 01:38:10,352 - INFO - Detections for @lobelia4cosmetics_10222.jpg:
+2024-10-16 01:38:10,362 - INFO -      name  confidence        xmin        ymin      xmax        ymax
+0  person    0.912346  342.725739  316.611267  558.0271  687.115906
+2024-10-16 01:38:10,367 - INFO - Saved detection results for image: @lobelia4cosmetics_10222.jpg
+2024-10-16 01:38:10,820 - INFO - Detections for @lobelia4cosmetics_10223.jpg:
+2024-10-16 01:38:10,820 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.914684  296.627228  290.930420  506.326813  582.158752
+1     tie    0.378159  428.367218  427.907715  456.937561  463.694580
+2024-10-16 01:38:10,837 - INFO - Saved detection results for image: @lobelia4cosmetics_10223.jpg
+2024-10-16 01:38:11,200 - INFO - Detections for @lobelia4cosmetics_10224.jpg:
+2024-10-16 01:38:11,204 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.719199  313.472687  261.154266  443.200500  505.264282
+1  person    0.449396  400.272736  342.550934  469.294281  406.840088
+2024-10-16 01:38:11,218 - INFO - Saved detection results for image: @lobelia4cosmetics_10224.jpg
+2024-10-16 01:38:11,438 - INFO - No detections found for image: @lobelia4cosmetics_10225.jpg
+2024-10-16 01:38:11,739 - INFO - Detections for @lobelia4cosmetics_10226.jpg:
+2024-10-16 01:38:11,740 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle     0.33296  320.581543  224.795288  637.528015  1200.781372
+2024-10-16 01:38:11,761 - INFO - Saved detection results for image: @lobelia4cosmetics_10226.jpg
+2024-10-16 01:38:12,081 - INFO - No detections found for image: @lobelia4cosmetics_10227.jpg
+2024-10-16 01:38:12,422 - INFO - Detections for @lobelia4cosmetics_10228.jpg:
+2024-10-16 01:38:12,422 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.442317  627.069946  268.439575  945.952393  1198.739502
+2024-10-16 01:38:12,437 - INFO - Saved detection results for image: @lobelia4cosmetics_10228.jpg
+2024-10-16 01:38:12,811 - INFO - No detections found for image: @lobelia4cosmetics_10229.jpg
+2024-10-16 01:38:13,140 - INFO - Detections for @lobelia4cosmetics_10230.jpg:
+2024-10-16 01:38:13,140 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.837817  239.710205  600.867188  376.743317  748.357544
+1  person    0.783029  350.394714  557.036743  450.975189  739.511780
+2  person    0.647013  600.788635  674.330078  675.920471  815.240356
+3  person    0.585273  429.727112  549.247009  537.696838  852.276733
+4  person    0.580514  558.670532  704.565674  631.774597  838.042358
+5  bottle    0.552930  538.359314  306.540680  790.365112  858.194336
+6  person    0.397497  545.091980  674.166870  583.348450  789.676514
+7  person    0.301429  543.741516  681.182068  603.988586  830.842163
+2024-10-16 01:38:13,168 - INFO - Saved detection results for image: @lobelia4cosmetics_10230.jpg
+2024-10-16 01:38:13,571 - INFO - No detections found for image: @lobelia4cosmetics_10231.jpg
+2024-10-16 01:38:13,922 - INFO - No detections found for image: @lobelia4cosmetics_10232.jpg
+2024-10-16 01:38:14,281 - INFO - No detections found for image: @lobelia4cosmetics_10233.jpg
+2024-10-16 01:38:14,651 - INFO - No detections found for image: @lobelia4cosmetics_10234.jpg
+2024-10-16 01:38:15,032 - INFO - No detections found for image: @lobelia4cosmetics_10235.jpg
+2024-10-16 01:38:15,391 - INFO - No detections found for image: @lobelia4cosmetics_10236.jpg
+2024-10-16 01:38:15,707 - INFO - No detections found for image: @lobelia4cosmetics_10237.jpg
+2024-10-16 01:38:15,981 - INFO - No detections found for image: @lobelia4cosmetics_10238.jpg
+2024-10-16 01:38:16,554 - INFO - No detections found for image: @lobelia4cosmetics_10239.jpg
+2024-10-16 01:38:17,020 - INFO - Detections for @lobelia4cosmetics_10240.jpg:
+2024-10-16 01:38:17,021 - INFO -       name  confidence        xmin        ymin         xmax        ymax
+0   orange    0.651067  139.897278  684.383362   274.718567  804.117371
+1    apple    0.593478  655.135925  846.802246   794.083069  986.809326
+2   orange    0.545961  462.394531  858.953247   607.903564  987.843994
+3   orange    0.508991  862.904907  685.561829   956.835693  800.884216
+4    apple    0.448015  323.679260  675.132507   388.085510  795.548767
+5    apple    0.401158  274.801361  636.340515   382.211578  774.034485
+6   orange    0.388854  386.991974  777.662292   456.453705  931.241028
+7    apple    0.360423  994.938904  666.499146  1142.079956  800.434448
+8   orange    0.352960  322.453949  679.394897   387.999481  797.897217
+9    apple    0.317703  385.638367  756.306702   458.495117  928.018860
+10  orange    0.296467   68.923004  595.958496   132.852203  758.495361
+2024-10-16 01:38:17,052 - INFO - Saved detection results for image: @lobelia4cosmetics_10240.jpg
+2024-10-16 01:38:17,436 - INFO - No detections found for image: @lobelia4cosmetics_10241.jpg
+2024-10-16 01:38:17,760 - INFO - No detections found for image: @lobelia4cosmetics_10242.jpg
+2024-10-16 01:38:18,154 - INFO - No detections found for image: @lobelia4cosmetics_10243.jpg
+2024-10-16 01:38:18,537 - INFO - No detections found for image: @lobelia4cosmetics_10244.jpg
+2024-10-16 01:38:18,813 - INFO - No detections found for image: @lobelia4cosmetics_10245.jpg
+2024-10-16 01:38:19,110 - INFO - No detections found for image: @lobelia4cosmetics_10246.jpg
+2024-10-16 01:38:19,400 - INFO - Detections for @lobelia4cosmetics_10247.jpg:
+2024-10-16 01:38:19,404 - INFO -   name  confidence       xmin        ymin        xmax        ymax
+0  cup    0.646768  71.777611  245.878174  149.468277  308.447205
+2024-10-16 01:38:19,425 - INFO - Saved detection results for image: @lobelia4cosmetics_10247.jpg
+2024-10-16 01:38:19,770 - INFO - No detections found for image: @lobelia4cosmetics_10248.jpg
+2024-10-16 01:38:20,260 - INFO - No detections found for image: @lobelia4cosmetics_10249.jpg
+2024-10-16 01:38:20,710 - INFO - No detections found for image: @lobelia4cosmetics_10250.jpg
+2024-10-16 01:38:21,091 - INFO - No detections found for image: @lobelia4cosmetics_10251.jpg
+2024-10-16 01:38:21,467 - INFO - Detections for @lobelia4cosmetics_10252.jpg:
+2024-10-16 01:38:21,470 - INFO -      name  confidence        xmin         ymin         xmax         ymax
+0    bowl    0.394037  554.801514  1093.960693   708.799927  1203.805420
+1    bowl    0.267324  701.958374  1096.478882   872.886475  1209.652222
+2  bottle    0.251126  668.372070    35.922974  1169.408447  1266.350098
+2024-10-16 01:38:21,490 - INFO - Saved detection results for image: @lobelia4cosmetics_10252.jpg
+2024-10-16 01:38:21,852 - INFO - No detections found for image: @lobelia4cosmetics_10253.jpg
+2024-10-16 01:38:22,182 - INFO - Detections for @lobelia4cosmetics_10254.jpg:
+2024-10-16 01:38:22,186 - INFO -    name  confidence        xmin         ymin        xmax         ymax
+0  bowl    0.438769  481.065979  1098.838623  766.010193  1212.199463
+2024-10-16 01:38:22,207 - INFO - Saved detection results for image: @lobelia4cosmetics_10254.jpg
+2024-10-16 01:38:22,497 - INFO - No detections found for image: @lobelia4cosmetics_10255.jpg
+2024-10-16 01:38:22,722 - INFO - No detections found for image: @lobelia4cosmetics_10256.jpg
+2024-10-16 01:38:22,972 - INFO - No detections found for image: @lobelia4cosmetics_10257.jpg
+2024-10-16 01:38:23,452 - INFO - No detections found for image: @lobelia4cosmetics_10258.jpg
+2024-10-16 01:38:23,772 - INFO - No detections found for image: @lobelia4cosmetics_10259.jpg
+2024-10-16 01:38:24,049 - INFO - No detections found for image: @lobelia4cosmetics_10260.jpg
+2024-10-16 01:38:24,328 - INFO - No detections found for image: @lobelia4cosmetics_10261.jpg
+2024-10-16 01:38:24,760 - INFO - Detections for @lobelia4cosmetics_10262.jpg:
+2024-10-16 01:38:24,765 - INFO -      name  confidence       xmin        ymin        xmax         ymax
+0  person    0.854438  386.62915  569.150818  798.967224  1072.493408
+2024-10-16 01:38:24,781 - INFO - Saved detection results for image: @lobelia4cosmetics_10262.jpg
+2024-10-16 01:38:25,525 - INFO - No detections found for image: @lobelia4cosmetics_10263.jpg
+2024-10-16 01:38:25,734 - INFO - No detections found for image: @lobelia4cosmetics_10264.jpg
+2024-10-16 01:38:25,946 - INFO - No detections found for image: @lobelia4cosmetics_10265.jpg
+2024-10-16 01:38:26,213 - INFO - No detections found for image: @lobelia4cosmetics_10266.jpg
+2024-10-16 01:38:26,528 - INFO - No detections found for image: @lobelia4cosmetics_10267.jpg
+2024-10-16 01:38:27,314 - INFO - No detections found for image: @lobelia4cosmetics_10268.jpg
+2024-10-16 01:38:27,968 - INFO - No detections found for image: @lobelia4cosmetics_10269.jpg
+2024-10-16 01:38:28,732 - INFO - Detections for @lobelia4cosmetics_10270.jpg:
+2024-10-16 01:38:28,738 - INFO -       name  confidence        xmin        ymin         xmax        ymax
+0   orange    0.651067  139.897278  684.383362   274.718567  804.117371
+1    apple    0.593478  655.135925  846.802246   794.083069  986.809326
+2   orange    0.545961  462.394531  858.953247   607.903564  987.843994
+3   orange    0.508991  862.904907  685.561829   956.835693  800.884216
+4    apple    0.448015  323.679260  675.132507   388.085510  795.548767
+5    apple    0.401158  274.801361  636.340515   382.211578  774.034485
+6   orange    0.388854  386.991974  777.662292   456.453705  931.241028
+7    apple    0.360423  994.938904  666.499146  1142.079956  800.434448
+8   orange    0.352960  322.453949  679.394897   387.999481  797.897217
+9    apple    0.317703  385.638367  756.306702   458.495117  928.018860
+10  orange    0.296467   68.923004  595.958496   132.852203  758.495361
+2024-10-16 01:38:29,027 - INFO - Saved detection results for image: @lobelia4cosmetics_10270.jpg
+2024-10-16 01:38:29,337 - INFO - No detections found for image: @lobelia4cosmetics_10271.jpg
+2024-10-16 01:38:29,623 - INFO - Detections for @lobelia4cosmetics_10272.jpg:
+2024-10-16 01:38:29,626 - INFO -    name  confidence        xmin        ymin        xmax        ymax
+0  bowl    0.758214  140.742126  185.970306  275.191772  299.847687
+2024-10-16 01:38:29,635 - INFO - Saved detection results for image: @lobelia4cosmetics_10272.jpg
+2024-10-16 01:38:29,938 - INFO - No detections found for image: @lobelia4cosmetics_10273.jpg
+2024-10-16 01:38:30,349 - INFO - No detections found for image: @lobelia4cosmetics_10274.jpg
+2024-10-16 01:38:31,166 - INFO - Detections for @lobelia4cosmetics_10275.jpg:
+2024-10-16 01:38:31,166 - INFO -    name  confidence  xmin       ymin        xmax        ymax
+0  cake    0.253817   0.0  17.540194  447.217651  457.944214
+2024-10-16 01:38:31,182 - INFO - Saved detection results for image: @lobelia4cosmetics_10275.jpg
+2024-10-16 01:38:31,505 - INFO - Detections for @lobelia4cosmetics_10276.jpg:
+2024-10-16 01:38:31,509 - INFO -   name  confidence        xmin        ymin        xmax        ymax
+0  tie    0.606166  588.669495  433.453735  794.719543  892.057861
+1  tie    0.369171  415.280884  360.541809  595.559204  851.648865
+2  tie    0.289963  718.690857  402.654266  942.206604  824.351562
+2024-10-16 01:38:31,607 - INFO - Saved detection results for image: @lobelia4cosmetics_10276.jpg
+2024-10-16 01:38:31,912 - INFO - Detections for @lobelia4cosmetics_10277.jpg:
+2024-10-16 01:38:31,916 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.261821  70.572525  352.022614  247.676712  941.161011
+2024-10-16 01:38:31,932 - INFO - Saved detection results for image: @lobelia4cosmetics_10277.jpg
+2024-10-16 01:38:32,220 - INFO - No detections found for image: @lobelia4cosmetics_10278.jpg
+2024-10-16 01:38:32,587 - INFO - No detections found for image: @lobelia4cosmetics_10279.jpg
+2024-10-16 01:38:32,843 - INFO - No detections found for image: @lobelia4cosmetics_10280.jpg
+2024-10-16 01:38:33,087 - INFO - Detections for @lobelia4cosmetics_10281.jpg:
+2024-10-16 01:38:33,104 - INFO -    name  confidence        xmin        ymin        xmax         ymax
+0  book    0.391108  263.244202  366.134033  735.582581  1209.804443
+2024-10-16 01:38:33,118 - INFO - Saved detection results for image: @lobelia4cosmetics_10281.jpg
+2024-10-16 01:38:33,366 - INFO - Detections for @lobelia4cosmetics_10282.jpg:
+2024-10-16 01:38:33,370 - INFO -           name  confidence        xmin        ymin        xmax        ymax
+0  sports ball    0.625586  384.410065  193.624405  415.876343  225.863098
+2024-10-16 01:38:33,453 - INFO - Saved detection results for image: @lobelia4cosmetics_10282.jpg
+2024-10-16 01:38:33,696 - INFO - No detections found for image: @lobelia4cosmetics_10283.jpg
+2024-10-16 01:38:34,000 - INFO - No detections found for image: @lobelia4cosmetics_10285.jpg
+2024-10-16 01:38:34,350 - INFO - Detections for @lobelia4cosmetics_10286.jpg:
+2024-10-16 01:38:34,404 - INFO -     name  confidence        xmin        ymin        xmax         ymax
+0  knife    0.419901  530.664185  818.453064  946.696655  1087.866943
+2024-10-16 01:38:34,420 - INFO - Saved detection results for image: @lobelia4cosmetics_10286.jpg
+2024-10-16 01:38:34,713 - INFO - No detections found for image: @lobelia4cosmetics_10287.jpg
+2024-10-16 01:38:34,940 - INFO - No detections found for image: @lobelia4cosmetics_10288.jpg
+2024-10-16 01:38:35,249 - INFO - Detections for @lobelia4cosmetics_10289.jpg:
+2024-10-16 01:38:35,259 - INFO -    name  confidence        xmin        ymin        xmax         ymax
+0  book    0.686839  677.356995  193.655151  901.248474  1236.047607
+1  book    0.422487  352.294891  137.549438  700.416504  1256.707031
+2024-10-16 01:38:35,265 - INFO - Saved detection results for image: @lobelia4cosmetics_10289.jpg
+2024-10-16 01:38:35,572 - INFO - No detections found for image: @lobelia4cosmetics_10290.jpg
+2024-10-16 01:38:35,866 - INFO - Detections for @lobelia4cosmetics_10291.jpg:
+2024-10-16 01:38:35,881 - INFO -    name  confidence        xmin        ymin        xmax         ymax
+0  book    0.500795  277.916870   87.626465  654.781311  1195.686401
+1  book    0.336661  633.134033  187.437653  962.874390  1184.869263
+2024-10-16 01:38:35,881 - INFO - Saved detection results for image: @lobelia4cosmetics_10291.jpg
+2024-10-16 01:38:36,184 - INFO - No detections found for image: @lobelia4cosmetics_10292.jpg
+2024-10-16 01:38:36,536 - INFO - Detections for @lobelia4cosmetics_10293.jpg:
+2024-10-16 01:38:36,541 - INFO -    name  confidence       xmin       ymin       xmax        ymax
+0  book    0.257414  48.608143  34.479431  786.64978  982.758728
+2024-10-16 01:38:36,557 - INFO - Saved detection results for image: @lobelia4cosmetics_10293.jpg
+2024-10-16 01:38:36,844 - INFO - No detections found for image: @lobelia4cosmetics_10294.jpg
+2024-10-16 01:38:37,190 - INFO - No detections found for image: @lobelia4cosmetics_10295.jpg
+2024-10-16 01:38:37,510 - INFO - Detections for @lobelia4cosmetics_10296.jpg:
+2024-10-16 01:38:37,514 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  bottle    0.691132  437.221832  150.159363  629.909119  767.852295
+2024-10-16 01:38:37,532 - INFO - Saved detection results for image: @lobelia4cosmetics_10296.jpg
+2024-10-16 01:38:37,839 - INFO - Detections for @lobelia4cosmetics_10297.jpg:
+2024-10-16 01:38:37,854 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.804046  648.372742  458.769867  882.586121  1030.527466
+1  bottle    0.549835  464.503174  464.395691  652.965576   979.204163
+2024-10-16 01:38:37,872 - INFO - Saved detection results for image: @lobelia4cosmetics_10297.jpg
+2024-10-16 01:38:38,156 - INFO - Detections for @lobelia4cosmetics_10298.jpg:
+2024-10-16 01:38:38,156 - INFO -            name  confidence        xmin        ymin        xmax        ymax
+0        bottle    0.428631  456.905365  198.558640  682.092651  743.703491
+1        bottle    0.335330  178.539658  239.647415  373.393646  718.351318
+2  refrigerator    0.328700   31.581818   45.389332  380.216553  733.392639
+2024-10-16 01:38:38,187 - INFO - Saved detection results for image: @lobelia4cosmetics_10298.jpg
+2024-10-16 01:38:38,603 - INFO - No detections found for image: @lobelia4cosmetics_10299.jpg
+2024-10-16 01:38:39,156 - INFO - No detections found for image: @lobelia4cosmetics_10300.jpg
+2024-10-16 01:38:39,437 - INFO - No detections found for image: @lobelia4cosmetics_10301.jpg
+2024-10-16 01:38:39,735 - INFO - Detections for @lobelia4cosmetics_10302.jpg:
+2024-10-16 01:38:39,735 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  banana    0.810187   18.345390  1023.145569  111.539665  1197.217773
+1     tie    0.306493  518.006714    60.316040  680.086792  1280.000000
+2024-10-16 01:38:39,761 - INFO - Saved detection results for image: @lobelia4cosmetics_10302.jpg
+2024-10-16 01:38:40,109 - INFO - No detections found for image: @lobelia4cosmetics_10303.jpg
+2024-10-16 01:38:40,468 - INFO - No detections found for image: @lobelia4cosmetics_10304.jpg
+2024-10-16 01:38:40,827 - INFO - No detections found for image: @lobelia4cosmetics_10306.jpg
+2024-10-16 01:38:41,130 - INFO - No detections found for image: @lobelia4cosmetics_10307.jpg
+2024-10-16 01:38:41,452 - INFO - Detections for @lobelia4cosmetics_10308.jpg:
+2024-10-16 01:38:41,462 - INFO -         name  confidence        xmin       ymin        xmax        ymax
+0  stop sign    0.457503  260.943817  167.32074  301.444611  228.760498
+2024-10-16 01:38:41,468 - INFO - Saved detection results for image: @lobelia4cosmetics_10308.jpg
+2024-10-16 01:38:41,776 - INFO - No detections found for image: @lobelia4cosmetics_10309.jpg
+2024-10-16 01:38:42,280 - INFO - No detections found for image: @lobelia4cosmetics_10310.jpg
+2024-10-16 01:38:42,768 - INFO - No detections found for image: @lobelia4cosmetics_10311.jpg
+2024-10-16 01:38:43,145 - INFO - No detections found for image: @lobelia4cosmetics_10312.jpg
+2024-10-16 01:38:43,463 - INFO - No detections found for image: @lobelia4cosmetics_10313.jpg
+2024-10-16 01:38:43,803 - INFO - No detections found for image: @lobelia4cosmetics_10314.jpg
+2024-10-16 01:38:44,153 - INFO - No detections found for image: @lobelia4cosmetics_10315.jpg
+2024-10-16 01:38:44,591 - INFO - Detections for @lobelia4cosmetics_10316.jpg:
+2024-10-16 01:38:44,595 - INFO -   name  confidence       xmin        ymin        xmax        ymax
+0  cup    0.646768  71.777611  245.878174  149.468277  308.447205
+2024-10-16 01:38:44,614 - INFO - Saved detection results for image: @lobelia4cosmetics_10316.jpg
+2024-10-16 01:38:45,011 - INFO - No detections found for image: @lobelia4cosmetics_10317.jpg
+2024-10-16 01:38:45,403 - INFO - No detections found for image: @lobelia4cosmetics_10318.jpg
+2024-10-16 01:38:45,787 - INFO - Detections for @lobelia4cosmetics_10319.jpg:
+2024-10-16 01:38:45,791 - INFO -      name  confidence       xmin        ymin        xmax         ymax
+0  person    0.854438  386.62915  569.150818  798.967224  1072.493408
+2024-10-16 01:38:45,809 - INFO - Saved detection results for image: @lobelia4cosmetics_10319.jpg
+2024-10-16 01:38:46,231 - INFO - No detections found for image: @lobelia4cosmetics_10320.jpg
+2024-10-16 01:38:46,634 - INFO - No detections found for image: @lobelia4cosmetics_10321.jpg
+2024-10-16 01:38:46,944 - INFO - No detections found for image: @lobelia4cosmetics_10322.jpg
+2024-10-16 01:38:47,241 - INFO - Detections for @lobelia4cosmetics_10323.jpg:
+2024-10-16 01:38:47,245 - INFO -     name  confidence        xmin        ymin        xmax        ymax
+0  apple    0.475013  410.698364  901.612305  478.663391  972.098511
+2024-10-16 01:38:47,261 - INFO - Saved detection results for image: @lobelia4cosmetics_10323.jpg
+2024-10-16 01:38:47,612 - INFO - Detections for @lobelia4cosmetics_10324.jpg:
+2024-10-16 01:38:47,616 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0   apple    0.679946  407.916412   996.978638  495.407806  1088.528442
+1  bottle    0.355741  355.356506    31.494263  912.686462  1239.177490
+2   apple    0.308228  579.835266  1054.498535  676.618469  1108.602051
+2024-10-16 01:38:47,633 - INFO - Saved detection results for image: @lobelia4cosmetics_10324.jpg
+2024-10-16 01:38:48,148 - INFO - No detections found for image: @lobelia4cosmetics_10325.jpg
+2024-10-16 01:38:48,533 - INFO - No detections found for image: @lobelia4cosmetics_10326.jpg
+2024-10-16 01:38:48,954 - INFO - No detections found for image: @lobelia4cosmetics_10327.jpg
+2024-10-16 01:38:49,250 - INFO - No detections found for image: @lobelia4cosmetics_10328.jpg
+2024-10-16 01:38:49,624 - INFO - No detections found for image: @lobelia4cosmetics_10329.jpg
+2024-10-16 01:38:50,272 - INFO - No detections found for image: @lobelia4cosmetics_10330.jpg
+2024-10-16 01:38:50,652 - INFO - Detections for @lobelia4cosmetics_10331.jpg:
+2024-10-16 01:38:50,662 - INFO -      name  confidence        xmin       ymin        xmax        ymax
+0  bottle    0.302835  345.213257  27.171076  849.627319  1115.98938
+2024-10-16 01:38:50,818 - INFO - Saved detection results for image: @lobelia4cosmetics_10331.jpg
+2024-10-16 01:38:51,183 - INFO - Detections for @lobelia4cosmetics_10332.jpg:
+2024-10-16 01:38:51,186 - INFO -      name  confidence       xmin  ymin        xmax        ymax
+0  bottle    0.434455  160.30098   0.0  351.007568  496.128082
+2024-10-16 01:38:51,210 - INFO - Saved detection results for image: @lobelia4cosmetics_10332.jpg
+2024-10-16 01:38:51,468 - INFO - No detections found for image: @lobelia4cosmetics_10333.jpg
+2024-10-16 01:38:51,785 - INFO - No detections found for image: @lobelia4cosmetics_10334.jpg
+2024-10-16 01:38:52,078 - INFO - Detections for @lobelia4cosmetics_10335.jpg:
+2024-10-16 01:38:52,078 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0    book    0.575717  254.181396  912.326172  782.529419  1020.054077
+1  person    0.330363  591.487793  481.116455  765.717163   928.665039
+2024-10-16 01:38:52,104 - INFO - Saved detection results for image: @lobelia4cosmetics_10335.jpg
+2024-10-16 01:38:52,507 - INFO - Detections for @lobelia4cosmetics_10336.jpg:
+2024-10-16 01:38:52,511 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0   apple    0.379300  111.969223  338.481842  188.541824   380.474518
+1  orange    0.357907  531.034668  726.901184  726.399292  1147.414307
+2024-10-16 01:38:52,521 - INFO - Saved detection results for image: @lobelia4cosmetics_10336.jpg
+2024-10-16 01:38:52,815 - INFO - Detections for @lobelia4cosmetics_10337.jpg:
+2024-10-16 01:38:52,819 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.542075  316.487823  259.227722  515.913269  582.338013
+2024-10-16 01:38:53,110 - INFO - Saved detection results for image: @lobelia4cosmetics_10337.jpg
+2024-10-16 01:38:53,475 - INFO - No detections found for image: @lobelia4cosmetics_10338.jpg
+2024-10-16 01:38:53,795 - INFO - No detections found for image: @lobelia4cosmetics_10339.jpg
+2024-10-16 01:38:54,092 - INFO - No detections found for image: @lobelia4cosmetics_10340.jpg
+2024-10-16 01:38:54,375 - INFO - Detections for @lobelia4cosmetics_10341.jpg:
+2024-10-16 01:38:54,375 - INFO -             name  confidence        xmin        ymin        xmax         ymax
+0  parking meter    0.420197  296.751068  132.006012  968.405151  1143.936646
+1            cup    0.279941  297.346558  130.160706  971.870728  1168.945801
+2024-10-16 01:38:54,391 - INFO - Saved detection results for image: @lobelia4cosmetics_10341.jpg
+2024-10-16 01:38:54,696 - INFO - No detections found for image: @lobelia4cosmetics_10342.jpg
+2024-10-16 01:38:54,965 - INFO - No detections found for image: @lobelia4cosmetics_10343.jpg
+2024-10-16 01:38:55,205 - INFO - Detections for @lobelia4cosmetics_10344.jpg:
+2024-10-16 01:38:55,205 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:38:55,359 - INFO - Saved detection results for image: @lobelia4cosmetics_10344.jpg
+2024-10-16 01:38:55,686 - INFO - Detections for @lobelia4cosmetics_10345.jpg:
+2024-10-16 01:38:55,686 - INFO -      name  confidence        xmin      ymin        xmax        ymax
+0  bottle    0.410454  143.246155  27.12513  406.199951  782.417908
+2024-10-16 01:38:56,075 - INFO - Saved detection results for image: @lobelia4cosmetics_10345.jpg
+2024-10-16 01:38:56,375 - INFO - No detections found for image: @lobelia4cosmetics_10346.jpg
+2024-10-16 01:38:56,649 - INFO - No detections found for image: @lobelia4cosmetics_10347.jpg
+2024-10-16 01:38:56,979 - INFO - No detections found for image: @lobelia4cosmetics_10349.jpg
+2024-10-16 01:38:57,326 - INFO - Detections for @lobelia4cosmetics_10350.jpg:
+2024-10-16 01:38:57,327 - INFO -    name  confidence  xmin       ymin        xmax        ymax
+0  cake    0.253817   0.0  17.540194  447.217651  457.944214
+2024-10-16 01:38:57,350 - INFO - Saved detection results for image: @lobelia4cosmetics_10350.jpg
+2024-10-16 01:43:24,874 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 01:43:25,182 - INFO - Detections for @lobelia4cosmetics_10040.jpg:
+2024-10-16 01:43:25,192 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:43:25,205 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:43:25,530 - INFO - No detections found for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:43:25,745 - INFO - Detections for @lobelia4cosmetics_10042.jpg:
+2024-10-16 01:43:25,747 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:43:25,763 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:43:26,071 - INFO - No detections found for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:43:26,277 - INFO - No detections found for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:43:26,494 - INFO - No detections found for image: @lobelia4cosmetics_10045.jpg
+2024-10-16 01:43:26,734 - INFO - No detections found for image: @lobelia4cosmetics_10046.jpg
+2024-10-16 01:43:27,026 - INFO - No detections found for image: @lobelia4cosmetics_10047.jpg
+2024-10-16 01:43:27,349 - INFO - No detections found for image: @lobelia4cosmetics_10048.jpg
+2024-10-16 01:43:27,628 - INFO - No detections found for image: @lobelia4cosmetics_10049.jpg
+2024-10-16 01:43:27,984 - INFO - Detections for @lobelia4cosmetics_10050.jpg:
+2024-10-16 01:43:27,984 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.861932  649.881348  564.329163  956.756958  946.794128
+2024-10-16 01:43:27,999 - INFO - Saved detection results for image: @lobelia4cosmetics_10050.jpg
+2024-10-16 01:43:28,240 - INFO - No detections found for image: @lobelia4cosmetics_10051.jpg
+2024-10-16 01:43:28,466 - INFO - Detections for @lobelia4cosmetics_10052.jpg:
+2024-10-16 01:43:28,468 - INFO -       name  confidence        xmin        ymin        xmax        ymax
+0   person    0.892275  381.142426  170.724106  582.539429  471.182709
+1  frisbee    0.517341  577.593079  276.776917  734.930908  433.857025
+2024-10-16 01:43:28,481 - INFO - Saved detection results for image: @lobelia4cosmetics_10052.jpg
+2024-10-16 01:43:28,654 - INFO - No detections found for image: @lobelia4cosmetics_10053.jpg
+2024-10-16 01:43:28,901 - INFO - No detections found for image: @lobelia4cosmetics_10054.jpg
+2024-10-16 01:43:29,130 - INFO - No detections found for image: @lobelia4cosmetics_10058.jpg
+2024-10-16 01:43:29,326 - INFO - No detections found for image: @lobelia4cosmetics_10059.jpg
+2024-10-16 01:43:29,570 - INFO - Detections for @lobelia4cosmetics_10060.jpg:
+2024-10-16 01:43:29,572 - INFO -      name  confidence       xmin        ymin        xmax         ymax
+0  person    0.854438  386.62915  569.150818  798.967224  1072.493408
+2024-10-16 01:43:29,578 - INFO - Saved detection results for image: @lobelia4cosmetics_10060.jpg
+2024-10-16 01:43:29,809 - INFO - No detections found for image: @lobelia4cosmetics_10061.jpg
+2024-10-16 01:43:30,038 - INFO - No detections found for image: @lobelia4cosmetics_10062.jpg
+2024-10-16 01:43:30,251 - INFO - Detections for @lobelia4cosmetics_10063.jpg:
+2024-10-16 01:43:30,251 - INFO -   name  confidence       xmin        ymin        xmax        ymax
+0  cup    0.646768  71.777611  245.878174  149.468277  308.447205
+2024-10-16 01:43:30,268 - INFO - Saved detection results for image: @lobelia4cosmetics_10063.jpg
+2024-10-16 01:43:30,491 - INFO - No detections found for image: @lobelia4cosmetics_10064.jpg
+2024-10-16 01:43:30,686 - INFO - No detections found for image: @lobelia4cosmetics_10065.jpg
+2024-10-16 01:43:30,951 - INFO - No detections found for image: @lobelia4cosmetics_10066.jpg
+2024-10-16 01:43:31,199 - INFO - No detections found for image: @lobelia4cosmetics_10067.jpg
+2024-10-16 01:43:31,591 - INFO - No detections found for image: @lobelia4cosmetics_10068.jpg
+2024-10-16 01:43:31,804 - INFO - No detections found for image: @lobelia4cosmetics_10069.jpg
+2024-10-16 01:43:32,026 - INFO - Detections for @lobelia4cosmetics_10070.jpg:
+2024-10-16 01:43:32,029 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:43:32,044 - INFO - Saved detection results for image: @lobelia4cosmetics_10070.jpg
+2024-10-16 01:43:32,359 - INFO - No detections found for image: @lobelia4cosmetics_10071.jpg
+2024-10-16 01:43:32,669 - INFO - Detections for @lobelia4cosmetics_10072.jpg:
+2024-10-16 01:43:32,672 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.501196  657.153442  313.081970  952.058838  1231.496094
+1  bottle    0.355327  446.191406  312.021851  628.322998  1193.137085
+2024-10-16 01:43:32,687 - INFO - Saved detection results for image: @lobelia4cosmetics_10072.jpg
+2024-10-16 01:43:32,987 - INFO - Detections for @lobelia4cosmetics_10073.jpg:
+2024-10-16 01:43:32,990 - INFO -    name  confidence  xmin       ymin        xmax        ymax
+0  cake    0.253817   0.0  17.540194  447.217651  457.944214
+2024-10-16 01:43:33,006 - INFO - Saved detection results for image: @lobelia4cosmetics_10073.jpg
+2024-10-16 01:43:33,359 - INFO - Detections for @lobelia4cosmetics_10074.jpg:
+2024-10-16 01:43:33,359 - INFO -   name  confidence        xmin        ymin        xmax        ymax
+0  tie    0.606166  588.669495  433.453735  794.719543  892.057861
+1  tie    0.369171  415.280884  360.541809  595.559204  851.648865
+2  tie    0.289963  718.690857  402.654266  942.206604  824.351562
+2024-10-16 01:43:33,380 - INFO - Saved detection results for image: @lobelia4cosmetics_10074.jpg
+2024-10-16 01:43:33,650 - INFO - Detections for @lobelia4cosmetics_10075.jpg:
+2024-10-16 01:43:33,659 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.261821  70.572525  352.022614  247.676712  941.161011
+2024-10-16 01:43:33,671 - INFO - Saved detection results for image: @lobelia4cosmetics_10075.jpg
+2024-10-16 01:43:33,922 - INFO - No detections found for image: @lobelia4cosmetics_10076.jpg
+2024-10-16 01:43:34,258 - INFO - No detections found for image: @lobelia4cosmetics_10077.jpg
+2024-10-16 01:43:34,570 - INFO - No detections found for image: @lobelia4cosmetics_10078.jpg
+2024-10-16 01:43:34,892 - INFO - Detections for @lobelia4cosmetics_10079.jpg:
+2024-10-16 01:43:34,900 - INFO -   name  confidence       xmin        ymin        xmax       ymax
+0  cup    0.548626  99.793182  210.910767  174.323288  295.32785
+2024-10-16 01:43:34,923 - INFO - Saved detection results for image: @lobelia4cosmetics_10079.jpg
+2024-10-16 01:43:35,256 - INFO - Detections for @lobelia4cosmetics_10080.jpg:
+2024-10-16 01:43:35,257 - INFO -   name  confidence        xmin        ymin        xmax         ymax
+0  cup    0.785351  360.233795  782.483765  641.822266  1073.279785
+2024-10-16 01:43:35,273 - INFO - Saved detection results for image: @lobelia4cosmetics_10080.jpg
+2024-10-16 01:43:35,563 - INFO - No detections found for image: @lobelia4cosmetics_10081.jpg
+2024-10-16 01:43:35,851 - INFO - No detections found for image: @lobelia4cosmetics_10082.jpg
+2024-10-16 01:43:36,137 - INFO - No detections found for image: @lobelia4cosmetics_10083.jpg
+2024-10-16 01:43:36,416 - INFO - No detections found for image: @lobelia4cosmetics_10084.jpg
+2024-10-16 01:43:36,854 - INFO - No detections found for image: @lobelia4cosmetics_10085.jpg
+2024-10-16 01:43:37,193 - INFO - No detections found for image: @lobelia4cosmetics_10086.jpg
+2024-10-16 01:43:37,625 - INFO - No detections found for image: @lobelia4cosmetics_10087.jpg
+2024-10-16 01:43:38,142 - INFO - Detections for @lobelia4cosmetics_10088.jpg:
+2024-10-16 01:43:38,149 - INFO -       name  confidence        xmin        ymin         xmax        ymax
+0   orange    0.651067  139.897278  684.383362   274.718567  804.117371
+1    apple    0.593478  655.135925  846.802246   794.083069  986.809326
+2   orange    0.545961  462.394531  858.953247   607.903564  987.843994
+3   orange    0.508991  862.904907  685.561829   956.835693  800.884216
+4    apple    0.448015  323.679260  675.132507   388.085510  795.548767
+5    apple    0.401158  274.801361  636.340515   382.211578  774.034485
+6   orange    0.388854  386.991974  777.662292   456.453705  931.241028
+7    apple    0.360423  994.938904  666.499146  1142.079956  800.434448
+8   orange    0.352960  322.453949  679.394897   387.999481  797.897217
+9    apple    0.317703  385.638367  756.306702   458.495117  928.018860
+10  orange    0.296467   68.923004  595.958496   132.852203  758.495361
+2024-10-16 01:43:38,175 - INFO - Saved detection results for image: @lobelia4cosmetics_10088.jpg
+2024-10-16 01:43:38,602 - INFO - No detections found for image: @lobelia4cosmetics_10089.jpg
+2024-10-16 01:43:39,012 - INFO - No detections found for image: @lobelia4cosmetics_10090.jpg
+2024-10-16 01:43:39,427 - INFO - No detections found for image: @lobelia4cosmetics_10091.jpg
+2024-10-16 01:43:39,706 - INFO - No detections found for image: @lobelia4cosmetics_10092.jpg
+2024-10-16 01:43:39,981 - INFO - Detections for @lobelia4cosmetics_10093.jpg:
+2024-10-16 01:43:39,983 - INFO -      name  confidence        xmin       ymin        xmax        ymax
+0  bottle    0.332337  138.885742  83.928192  279.346039  550.979736
+1    book    0.312232  142.670700  98.550171  277.198517  543.302368
+2024-10-16 01:43:40,002 - INFO - Saved detection results for image: @lobelia4cosmetics_10093.jpg
+2024-10-16 01:43:40,351 - INFO - No detections found for image: @lobelia4cosmetics_10094.jpg
+2024-10-16 01:43:40,676 - INFO - Detections for @lobelia4cosmetics_10095.jpg:
+2024-10-16 01:43:40,676 - INFO -            name  confidence        xmin        ymin        xmax        ymax
+0        bottle    0.428631  456.905365  198.558640  682.092651  743.703491
+1        bottle    0.335330  178.539658  239.647415  373.393646  718.351318
+2  refrigerator    0.328700   31.581818   45.389332  380.216553  733.392639
+2024-10-16 01:43:40,701 - INFO - Saved detection results for image: @lobelia4cosmetics_10095.jpg
+2024-10-16 01:43:41,001 - INFO - Detections for @lobelia4cosmetics_10096.jpg:
+2024-10-16 01:43:41,006 - INFO -      name  confidence        xmin       ymin        xmax   ymax
+0  bottle    0.388069  109.290985  11.318664  302.621674  600.0
+2024-10-16 01:43:41,029 - INFO - Saved detection results for image: @lobelia4cosmetics_10096.jpg
+2024-10-16 01:43:41,366 - INFO - Detections for @lobelia4cosmetics_10097.jpg:
+2024-10-16 01:43:41,370 - INFO -      name  confidence       xmin  ymin        xmax        ymax
+0  bottle    0.434455  160.30098   0.0  351.007568  496.128082
+2024-10-16 01:43:41,393 - INFO - Saved detection results for image: @lobelia4cosmetics_10097.jpg
+2024-10-16 01:43:41,742 - INFO - No detections found for image: @lobelia4cosmetics_10098.jpg
+2024-10-16 01:43:42,057 - INFO - No detections found for image: @lobelia4cosmetics_10099.jpg
+2024-10-16 01:43:42,393 - INFO - Detections for @lobelia4cosmetics_10100.jpg:
+2024-10-16 01:43:42,401 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0    book    0.575717  254.181396  912.326172  782.529419  1020.054077
+1  person    0.330363  591.487793  481.116455  765.717163   928.665039
+2024-10-16 01:43:42,424 - INFO - Saved detection results for image: @lobelia4cosmetics_10100.jpg
+2024-10-16 01:43:42,807 - INFO - No detections found for image: @lobelia4cosmetics_10101.jpg
+2024-10-16 01:43:43,392 - INFO - Detections for @lobelia4cosmetics_10102.jpg:
+2024-10-16 01:43:43,401 - INFO -      name  confidence        xmin       ymin        xmax         ymax
+0  bottle    0.457665  384.009552  18.159668  896.508057  1230.741211
+2024-10-16 01:43:43,425 - INFO - Saved detection results for image: @lobelia4cosmetics_10102.jpg
+2024-10-16 01:43:44,196 - INFO - No detections found for image: @lobelia4cosmetics_10103.jpg
+2024-10-16 01:43:44,588 - INFO - No detections found for image: @lobelia4cosmetics_10104.jpg
+2024-10-16 01:43:44,945 - INFO - Detections for @lobelia4cosmetics_10105.jpg:
+2024-10-16 01:43:44,948 - INFO -    name  confidence       xmin        ymin        xmax        ymax
+0  book    0.269005  59.966007  436.428192  980.326538  947.787842
+2024-10-16 01:43:44,966 - INFO - Saved detection results for image: @lobelia4cosmetics_10105.jpg
+2024-10-16 01:43:45,300 - INFO - No detections found for image: @lobelia4cosmetics_10106.jpg
+2024-10-16 01:43:45,633 - INFO - Detections for @lobelia4cosmetics_10107.jpg:
+2024-10-16 01:43:45,638 - INFO -         name  confidence        xmin      ymin        xmax        ymax
+0  stop sign    0.307687  197.729141  3.095779  638.579224  752.006042
+2024-10-16 01:43:45,658 - INFO - Saved detection results for image: @lobelia4cosmetics_10107.jpg
+2024-10-16 01:43:45,947 - INFO - Detections for @lobelia4cosmetics_10108.jpg:
+2024-10-16 01:43:45,951 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0   apple    0.379300  111.969223  338.481842  188.541824   380.474518
+1  orange    0.357907  531.034668  726.901184  726.399292  1147.414307
+2024-10-16 01:43:45,966 - INFO - Saved detection results for image: @lobelia4cosmetics_10108.jpg
+2024-10-16 01:43:46,333 - INFO - Detections for @lobelia4cosmetics_10109.jpg:
+2024-10-16 01:43:46,338 - INFO -         name  confidence        xmin         ymin         xmax         ymax
+0  stop sign    0.488921  500.146942   475.912537  1064.549072  1059.758545
+1     orange    0.433504   89.510468  1048.622437   345.968262  1266.587280
+2024-10-16 01:43:46,354 - INFO - Saved detection results for image: @lobelia4cosmetics_10109.jpg
+2024-10-16 01:43:46,667 - INFO - Detections for @lobelia4cosmetics_10110.jpg:
+2024-10-16 01:43:46,671 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.542075  316.487823  259.227722  515.913269  582.338013
+2024-10-16 01:43:46,710 - INFO - Saved detection results for image: @lobelia4cosmetics_10110.jpg
+2024-10-16 01:43:47,210 - INFO - No detections found for image: @lobelia4cosmetics_10111.jpg
+2024-10-16 01:43:47,609 - INFO - No detections found for image: @lobelia4cosmetics_10112.jpg
+2024-10-16 01:43:47,913 - INFO - Detections for @lobelia4cosmetics_10113.jpg:
+2024-10-16 01:43:47,915 - INFO -   name  confidence      xmin        ymin        xmax        ymax
+0  cup     0.31478  5.207767  249.310028  301.134003  793.937805
+2024-10-16 01:43:47,932 - INFO - Saved detection results for image: @lobelia4cosmetics_10113.jpg
+2024-10-16 01:43:48,331 - INFO - Detections for @lobelia4cosmetics_10114.jpg:
+2024-10-16 01:43:48,333 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:43:48,357 - INFO - Saved detection results for image: @lobelia4cosmetics_10114.jpg
+2024-10-16 01:43:48,758 - INFO - No detections found for image: @lobelia4cosmetics_10115.jpg
+2024-10-16 01:43:49,227 - INFO - Detections for @lobelia4cosmetics_10116.jpg:
+2024-10-16 01:43:49,231 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:43:49,252 - INFO - Saved detection results for image: @lobelia4cosmetics_10116.jpg
+2024-10-16 01:43:49,710 - INFO - No detections found for image: @lobelia4cosmetics_10117.jpg
+2024-10-16 01:43:50,112 - INFO - No detections found for image: @lobelia4cosmetics_10118.jpg
+2024-10-16 01:43:50,634 - INFO - No detections found for image: @lobelia4cosmetics_10119.jpg
+2024-10-16 01:43:51,043 - INFO - No detections found for image: @lobelia4cosmetics_10120.jpg
+2024-10-16 01:43:51,422 - INFO - No detections found for image: @lobelia4cosmetics_10121.jpg
+2024-10-16 01:43:51,741 - INFO - No detections found for image: @lobelia4cosmetics_10122.jpg
+2024-10-16 01:43:52,178 - INFO - No detections found for image: @lobelia4cosmetics_10123.jpg
+2024-10-16 01:43:52,563 - INFO - Detections for @lobelia4cosmetics_10124.jpg:
+2024-10-16 01:43:52,563 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.861932  649.881348  564.329163  956.756958  946.794128
+2024-10-16 01:43:52,574 - INFO - Saved detection results for image: @lobelia4cosmetics_10124.jpg
+2024-10-16 01:43:52,889 - INFO - No detections found for image: @lobelia4cosmetics_10125.jpg
+2024-10-16 01:43:53,124 - INFO - Detections for @lobelia4cosmetics_10126.jpg:
+2024-10-16 01:43:53,141 - INFO -       name  confidence        xmin        ymin        xmax        ymax
+0   person    0.892275  381.142426  170.724106  582.539429  471.182709
+1  frisbee    0.517341  577.593079  276.776917  734.930908  433.857025
+2024-10-16 01:43:53,158 - INFO - Saved detection results for image: @lobelia4cosmetics_10126.jpg
+2024-10-16 01:43:53,407 - INFO - No detections found for image: @lobelia4cosmetics_10127.jpg
+2024-10-16 01:43:53,712 - INFO - No detections found for image: @lobelia4cosmetics_10128.jpg
+2024-10-16 01:43:54,107 - INFO - Detections for @lobelia4cosmetics_10129.jpg:
+2024-10-16 01:43:54,107 - INFO -      name  confidence       xmin        ymin        xmax         ymax
+0  person    0.854438  386.62915  569.150818  798.967224  1072.493408
+2024-10-16 01:43:54,124 - INFO - Saved detection results for image: @lobelia4cosmetics_10129.jpg
+2024-10-16 01:43:54,477 - INFO - Detections for @lobelia4cosmetics_10130.jpg:
+2024-10-16 01:43:54,477 - INFO -    name  confidence        xmin       ymin        xmax         ymax
+0  book    0.429747  461.223419  36.443298  904.627563  1140.320557
+1  book    0.329773   29.207718  25.515686  494.304321  1146.235107
+2024-10-16 01:43:54,491 - INFO - Saved detection results for image: @lobelia4cosmetics_10130.jpg
+2024-10-16 01:43:54,801 - INFO - No detections found for image: @lobelia4cosmetics_10131.jpg
+2024-10-16 01:43:55,074 - INFO - No detections found for image: @lobelia4cosmetics_10132.jpg
+2024-10-16 01:43:55,390 - INFO - No detections found for image: @lobelia4cosmetics_10133.jpg
+2024-10-16 01:43:55,655 - INFO - Detections for @lobelia4cosmetics_10134.jpg:
+2024-10-16 01:43:55,655 - INFO -   name  confidence       xmin        ymin        xmax        ymax
+0  cup    0.646768  71.777611  245.878174  149.468277  308.447205
+2024-10-16 01:43:55,671 - INFO - Saved detection results for image: @lobelia4cosmetics_10134.jpg
+2024-10-16 01:43:55,936 - INFO - No detections found for image: @lobelia4cosmetics_10135.jpg
+2024-10-16 01:43:56,213 - INFO - No detections found for image: @lobelia4cosmetics_10136.jpg
+2024-10-16 01:43:56,475 - INFO - No detections found for image: @lobelia4cosmetics_10137.jpg
+2024-10-16 01:43:56,736 - INFO - No detections found for image: @lobelia4cosmetics_10138.jpg
+2024-10-16 01:43:57,009 - INFO - No detections found for image: @lobelia4cosmetics_10139.jpg
+2024-10-16 01:43:57,265 - INFO - No detections found for image: @lobelia4cosmetics_10140.jpg
+2024-10-16 01:43:57,775 - INFO - No detections found for image: @lobelia4cosmetics_10141.jpg
+2024-10-16 01:43:58,060 - INFO - Detections for @lobelia4cosmetics_10142.jpg:
+2024-10-16 01:43:58,074 - INFO -       name  confidence        xmin        ymin         xmax        ymax
+0   orange    0.651067  139.897278  684.383362   274.718567  804.117371
+1    apple    0.593478  655.135925  846.802246   794.083069  986.809326
+2   orange    0.545961  462.394531  858.953247   607.903564  987.843994
+3   orange    0.508991  862.904907  685.561829   956.835693  800.884216
+4    apple    0.448015  323.679260  675.132507   388.085510  795.548767
+5    apple    0.401158  274.801361  636.340515   382.211578  774.034485
+6   orange    0.388854  386.991974  777.662292   456.453705  931.241028
+7    apple    0.360423  994.938904  666.499146  1142.079956  800.434448
+8   orange    0.352960  322.453949  679.394897   387.999481  797.897217
+9    apple    0.317703  385.638367  756.306702   458.495117  928.018860
+10  orange    0.296467   68.923004  595.958496   132.852203  758.495361
+2024-10-16 01:43:58,092 - INFO - Saved detection results for image: @lobelia4cosmetics_10142.jpg
+2024-10-16 01:43:58,391 - INFO - No detections found for image: @lobelia4cosmetics_10143.jpg
+2024-10-16 01:43:58,714 - INFO - No detections found for image: @lobelia4cosmetics_10144.jpg
+2024-10-16 01:43:59,058 - INFO - Detections for @lobelia4cosmetics_10145.jpg:
+2024-10-16 01:43:59,058 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle     0.33296  320.581543  224.795288  637.528015  1200.781372
+2024-10-16 01:43:59,074 - INFO - Saved detection results for image: @lobelia4cosmetics_10145.jpg
+2024-10-16 01:43:59,463 - INFO - No detections found for image: @lobelia4cosmetics_10146.jpg
+2024-10-16 01:43:59,825 - INFO - Detections for @lobelia4cosmetics_10147.jpg:
+2024-10-16 01:43:59,825 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.442317  627.069946  268.439575  945.952393  1198.739502
+2024-10-16 01:43:59,841 - INFO - Saved detection results for image: @lobelia4cosmetics_10147.jpg
+2024-10-16 01:44:00,140 - INFO - No detections found for image: @lobelia4cosmetics_10148.jpg
+2024-10-16 01:44:00,443 - INFO - Detections for @lobelia4cosmetics_10149.jpg:
+2024-10-16 01:44:00,447 - INFO -      name  confidence        xmin        ymin        xmax        ymax
+0  person    0.837817  239.710205  600.867188  376.743317  748.357544
+1  person    0.783029  350.394714  557.036743  450.975189  739.511780
+2  person    0.647013  600.788635  674.330078  675.920471  815.240356
+3  person    0.585273  429.727112  549.247009  537.696838  852.276733
+4  person    0.580514  558.670532  704.565674  631.774597  838.042358
+5  bottle    0.552930  538.359314  306.540680  790.365112  858.194336
+6  person    0.397497  545.091980  674.166870  583.348450  789.676514
+7  person    0.301429  543.741516  681.182068  603.988586  830.842163
+2024-10-16 01:44:00,468 - INFO - Saved detection results for image: @lobelia4cosmetics_10149.jpg
+2024-10-16 01:44:00,796 - INFO - No detections found for image: @lobelia4cosmetics_10150.jpg
+2024-10-16 01:44:01,108 - INFO - No detections found for image: @lobelia4cosmetics_10151.jpg
+2024-10-16 01:44:01,377 - INFO - No detections found for image: @lobelia4cosmetics_10152.jpg
+2024-10-16 01:44:01,710 - INFO - No detections found for image: @lobelia4cosmetics_10153.jpg
+2024-10-16 01:44:02,031 - INFO - No detections found for image: @lobelia4cosmetics_10154.jpg
+2024-10-16 01:44:02,327 - INFO - No detections found for image: @lobelia4cosmetics_10155.jpg
+2024-10-16 01:44:02,799 - INFO - Detections for @lobelia4cosmetics_10156.jpg:
+2024-10-16 01:44:02,799 - INFO -     name  confidence        xmin        ymin        xmax        ymax
+0  apple    0.475013  410.698364  901.612305  478.663391  972.098511
+2024-10-16 01:44:02,811 - INFO - Saved detection results for image: @lobelia4cosmetics_10156.jpg
+2024-10-16 01:44:03,200 - INFO - Detections for @lobelia4cosmetics_10157.jpg:
+2024-10-16 01:44:03,210 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0   apple    0.679946  407.916412   996.978638  495.407806  1088.528442
+1  bottle    0.355741  355.356506    31.494263  912.686462  1239.177490
+2   apple    0.308228  579.835266  1054.498535  676.618469  1108.602051
+2024-10-16 01:44:03,225 - INFO - Saved detection results for image: @lobelia4cosmetics_10157.jpg
+2024-10-16 01:44:03,578 - INFO - No detections found for image: @lobelia4cosmetics_10158.jpg
+2024-10-16 01:46:45,546 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 01:46:45,551 - INFO - Created output folder: C:/Users/Hp/Desktop/Kifiya/Week7/ETH-MedData-Warehouse/image/testing_detected/detection_results
+2024-10-16 01:46:45,834 - INFO - Detections for @lobelia4cosmetics_10040.jpg:
+2024-10-16 01:46:45,834 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  orange    0.480667  747.975769  1113.962646  865.115051  1240.867920
+1  banana    0.433916  754.263428   668.341309  955.142090  1114.052734
+2  orange    0.263130  812.010559   281.325134  911.468079   373.878845
+2024-10-16 01:46:45,852 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:46:46,034 - INFO - No detections found for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:46:46,234 - INFO - Detections for @lobelia4cosmetics_10042.jpg:
+2024-10-16 01:46:46,234 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.703980  103.481606   86.276566  219.125580  282.193298
+1    bottle    0.642987  236.607651  132.268799  274.609070  263.386505
+2    bottle    0.582703  208.692322  117.738754  249.569214  273.389404
+3    bottle    0.520170  262.937012  143.529633  302.185303  257.115112
+4    toilet    0.473945   22.772911  149.851364   57.972984  257.208496
+5    toilet    0.350603   35.411575  143.183884   80.003479  262.056885
+6  suitcase    0.274276   73.666656  110.276161  107.559784  268.121399
+2024-10-16 01:46:46,263 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:46:46,484 - INFO - No detections found for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:46:46,731 - INFO - No detections found for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:46:46,733 - INFO - Detection extraction completed successfully.
+2024-10-16 01:50:13,093 - INFO - Loaded pre-trained YOLOv5 model: yolov5m successfully
+2024-10-16 01:50:13,661 - INFO - Detections for @lobelia4cosmetics_10040.jpg:
+2024-10-16 01:50:13,666 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0  banana    0.625528  743.562805   715.229431  957.542542  1112.724854
+1  orange    0.268115  772.968018  1115.762207  865.088745  1239.668457
+2024-10-16 01:50:13,680 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:50:14,060 - INFO - No detections found for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:50:14,511 - INFO - Detections for @lobelia4cosmetics_10042.jpg:
+2024-10-16 01:50:14,511 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.853473  104.235519   82.699722  215.545547  286.084412
+1  suitcase    0.777607   51.386345  133.915924   86.100563  264.481567
+2    bottle    0.765489  209.064682  123.535988  249.383377  271.443665
+3    bottle    0.710529  234.196915  132.097168  273.995331  264.114349
+4  suitcase    0.707685   73.888428  127.322319  114.382248  270.002869
+5  suitcase    0.666924   14.490425  143.635742   65.640839  256.285767
+6    bottle    0.624833  260.577423  144.548416  298.746613  257.600220
+7    bottle    0.430086  279.627533  149.535309  307.829132  254.855316
+2024-10-16 01:50:14,532 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:50:15,193 - INFO - No detections found for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:50:15,766 - INFO - Detections for @lobelia4cosmetics_10044.jpg:
+2024-10-16 01:50:15,766 - INFO -    name  confidence        xmin       ymin        xmax        ymax
+0  book    0.304893  454.220642  13.071526  825.163635  172.759247
+2024-10-16 01:50:15,788 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:50:15,791 - INFO - Detection extraction completed successfully.
+2024-10-16 01:50:20,931 - INFO - Loaded pre-trained YOLOv5 model: yolov5x successfully
+2024-10-16 01:50:20,942 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 01:50:22,824 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:50:22,828 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 01:50:24,847 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:50:24,849 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 01:50:27,725 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:50:27,725 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 01:50:30,143 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:50:30,143 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 01:50:33,054 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:50:33,061 - INFO - Image processing completed successfully.
+2024-10-16 01:50:44,310 - INFO - Loaded pre-trained YOLOv5 model: yolov5x successfully
+2024-10-16 01:50:46,201 - INFO - Detections for @lobelia4cosmetics_10040.jpg:
+2024-10-16 01:50:46,206 - INFO -      name  confidence        xmin         ymin        xmax         ymax
+0   apple    0.582256  581.497742   265.926270  718.465393   367.299377
+1  orange    0.413668  766.670776  1116.498413  865.828003  1240.772583
+2   apple    0.270841  722.559265   293.221191  843.665100   372.074463
+2024-10-16 01:50:46,226 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 01:50:48,114 - INFO - Detections for @lobelia4cosmetics_10041.jpg:
+2024-10-16 01:50:48,119 - INFO -      name  confidence      xmin      ymin        xmax        ymax
+0  bottle    0.601736  97.84127  1.197481  352.331512  596.741943
+2024-10-16 01:50:48,142 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 01:50:50,363 - INFO - Detections for @lobelia4cosmetics_10042.jpg:
+2024-10-16 01:50:50,368 - INFO -        name  confidence        xmin        ymin        xmax        ymax
+0    bottle    0.885048  104.036270   82.650223  216.478043  286.956848
+1    bottle    0.840705   51.896030  132.879120   88.277100  263.024261
+2    bottle    0.833548   72.653320  124.872620  116.163406  270.852448
+3    bottle    0.806673  203.276154  124.382767  249.693878  271.430725
+4    bottle    0.788930  233.814117  132.959412  273.881836  264.102325
+5    bottle    0.762394   25.440126  143.597717   65.043617  257.014099
+6  suitcase    0.681763   14.848871  154.706573   39.162598  250.502960
+7    bottle    0.626639  260.890625  144.260132  298.078308  258.234985
+8    bottle    0.404263  279.776978  149.571823  307.973022  255.338974
+2024-10-16 01:50:50,388 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 01:50:52,480 - INFO - Detections for @lobelia4cosmetics_10043.jpg:
+2024-10-16 01:50:52,484 - INFO -      name  confidence        xmin        ymin        xmax         ymax
+0  bottle    0.516182  372.538971  308.614288  903.714355  1215.598022
+2024-10-16 01:50:52,502 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 01:50:54,513 - INFO - Detections for @lobelia4cosmetics_10044.jpg:
+2024-10-16 01:50:54,517 - INFO -      name  confidence        xmin       ymin        xmax         ymax
+0  bottle    0.361819  327.199005   0.087158  954.421143  1268.551514
+1  bottle    0.253675  325.583557  11.353821  951.427673   413.205444
+2024-10-16 01:50:54,531 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 01:50:54,531 - INFO - Detection extraction completed successfully.
+2024-10-16 02:05:53,576 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:05:53,576 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:05:53,584 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:05:53,584 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:05:54,023 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:05:54,023 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:05:54,023 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:05:54,023 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:05:54,450 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:05:54,450 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:05:54,450 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:05:54,450 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:05:54,876 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:05:54,876 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:05:54,879 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:05:54,879 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:05:55,326 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:05:55,326 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:05:55,326 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:05:55,326 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:05:55,901 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:05:55,901 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:05:55,901 - INFO - Image processing completed successfully.
+2024-10-16 02:05:55,901 - INFO - Image processing completed successfully.
+2024-10-16 02:07:09,741 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:09,741 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:09,741 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:09,754 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:09,754 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:09,754 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:10,054 - ERROR - Error processing image @lobelia4cosmetics_10040.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,054 - ERROR - Error processing image @lobelia4cosmetics_10040.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,054 - ERROR - Error processing image @lobelia4cosmetics_10040.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,054 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:10,054 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:10,054 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:10,277 - ERROR - Error processing image @lobelia4cosmetics_10041.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,277 - ERROR - Error processing image @lobelia4cosmetics_10041.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,277 - ERROR - Error processing image @lobelia4cosmetics_10041.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,277 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:10,277 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:10,277 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:10,558 - ERROR - Error processing image @lobelia4cosmetics_10042.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,558 - ERROR - Error processing image @lobelia4cosmetics_10042.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,558 - ERROR - Error processing image @lobelia4cosmetics_10042.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:10,558 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:10,558 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:10,558 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:11,039 - ERROR - Error processing image @lobelia4cosmetics_10043.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:11,039 - ERROR - Error processing image @lobelia4cosmetics_10043.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:11,039 - ERROR - Error processing image @lobelia4cosmetics_10043.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:11,042 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:11,042 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:11,042 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:11,331 - ERROR - Error processing image @lobelia4cosmetics_10044.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:11,331 - ERROR - Error processing image @lobelia4cosmetics_10044.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:11,331 - ERROR - Error processing image @lobelia4cosmetics_10044.jpg: 'Detections' object has no attribute 'hide'
+2024-10-16 02:07:11,338 - INFO - Image processing completed successfully.
+2024-10-16 02:07:11,338 - INFO - Image processing completed successfully.
+2024-10-16 02:07:11,338 - INFO - Image processing completed successfully.
+2024-10-16 02:07:22,047 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:22,047 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:22,047 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:22,047 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:07:22,055 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:22,055 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:22,055 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:22,055 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:07:22,520 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:07:22,520 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:07:22,520 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:07:22,520 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:07:22,520 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:22,520 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:22,520 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:22,520 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:07:22,810 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:07:22,810 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:07:22,810 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:07:22,810 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:07:22,811 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:22,811 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:22,811 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:22,811 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:07:23,236 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:07:23,236 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:07:23,236 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:07:23,236 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:07:23,236 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:23,236 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:23,236 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:23,236 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:07:23,707 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:07:23,707 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:07:23,707 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:07:23,707 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:07:23,707 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:23,707 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:23,707 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:23,707 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:07:24,438 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:07:24,438 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:07:24,438 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:07:24,438 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:07:24,438 - INFO - Image processing completed successfully.
+2024-10-16 02:07:24,438 - INFO - Image processing completed successfully.
+2024-10-16 02:07:24,438 - INFO - Image processing completed successfully.
+2024-10-16 02:07:24,438 - INFO - Image processing completed successfully.
+2024-10-16 02:08:30,777 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:08:30,777 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:08:30,777 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:08:30,777 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:08:30,777 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:08:30,787 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:08:30,787 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:08:30,787 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:08:30,787 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:08:30,787 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:08:31,224 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:08:31,224 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:08:31,224 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:08:31,224 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:08:31,224 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:08:31,226 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:08:31,226 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:08:31,226 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:08:31,226 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:08:31,226 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:08:31,469 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:08:31,469 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:08:31,469 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:08:31,469 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:08:31,469 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:08:31,469 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:08:31,469 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:08:31,469 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:08:31,469 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:08:31,469 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:08:31,933 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:08:31,933 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:08:31,933 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:08:31,933 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:08:31,933 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:08:31,934 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:08:31,934 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:08:31,934 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:08:31,934 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:08:31,934 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:08:32,384 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:08:32,384 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:08:32,384 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:08:32,384 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:08:32,384 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:08:32,384 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:08:32,384 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:08:32,384 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:08:32,384 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:08:32,384 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:08:32,989 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:08:32,989 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:08:32,989 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:08:32,989 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:08:32,989 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:08:32,989 - INFO - Image processing completed successfully.
+2024-10-16 02:08:32,989 - INFO - Image processing completed successfully.
+2024-10-16 02:08:32,989 - INFO - Image processing completed successfully.
+2024-10-16 02:08:32,989 - INFO - Image processing completed successfully.
+2024-10-16 02:08:32,989 - INFO - Image processing completed successfully.
+2024-10-16 02:11:07,330 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:07,330 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:07,330 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:07,330 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:07,330 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:07,330 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:07,348 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:07,348 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:07,348 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:07,348 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:07,348 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:07,348 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:07,612 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:07,795 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:07,795 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:07,795 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:07,795 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:07,795 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:07,795 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:08,265 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,306 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,306 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,306 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,306 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,306 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,306 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:08,310 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:08,310 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:08,310 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:08,310 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:08,310 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:08,310 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:08,578 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,604 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,604 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,604 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,604 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,604 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,604 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:08,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:08,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:08,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:08,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:08,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:08,610 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:08,886 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:09,053 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:09,053 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:09,053 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:09,053 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:09,053 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:09,053 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:09,462 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:09,644 - INFO - Image processing completed successfully.
+2024-10-16 02:11:09,644 - INFO - Image processing completed successfully.
+2024-10-16 02:11:09,644 - INFO - Image processing completed successfully.
+2024-10-16 02:11:09,644 - INFO - Image processing completed successfully.
+2024-10-16 02:11:09,644 - INFO - Image processing completed successfully.
+2024-10-16 02:11:09,644 - INFO - Image processing completed successfully.
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,615 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:11:57,891 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:57,891 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,078 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:11:58,344 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,344 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,389 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,392 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:11:58,789 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,789 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:58,829 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:11:59,147 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,147 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,311 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:11:59,853 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:11:59,853 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:12:00,015 - INFO - Image processing completed successfully.
+2024-10-16 02:13:19,900 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:13:19,910 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:13:20,173 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:13:20,364 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:13:20,365 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:13:20,629 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:13:20,675 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:13:20,676 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:13:21,047 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:13:21,074 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:13:21,074 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:13:21,320 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:13:21,489 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:13:21,489 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:13:21,875 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:13:22,007 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:13:22,007 - INFO - Image processing completed successfully.
+2024-10-16 02:14:14,620 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:14:14,638 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:14:14,859 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:14:15,054 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:14:15,054 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:14:15,257 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:14:15,338 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:14:15,338 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:14:15,689 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:14:15,721 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:14:15,723 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:14:16,132 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:14:16,309 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:14:16,310 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:14:16,796 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:14:16,957 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:14:16,957 - INFO - Image processing completed successfully.
+2024-10-16 02:15:15,885 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:15:15,901 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:15:16,169 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:15:16,339 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:15:16,339 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:15:16,572 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:15:16,621 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:15:16,621 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:15:17,011 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:15:17,032 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:15:17,034 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:15:17,266 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:15:17,437 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:15:17,437 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:15:17,813 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:15:17,976 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:15:17,976 - INFO - Image processing completed successfully.
+2024-10-16 02:17:23,397 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:17:23,405 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:17:23,680 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:17:23,910 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:17:23,912 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:17:24,247 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:17:24,280 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:17:24,280 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:17:24,499 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:17:24,530 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:17:24,530 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:17:24,797 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:17:24,979 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:17:24,980 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:17:25,431 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:17:25,583 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:17:25,583 - INFO - Image processing completed successfully.
+2024-10-16 02:17:40,313 - INFO - Loaded pre-trained YOLOv5 model: yolov5m successfully
+2024-10-16 02:17:40,330 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:17:40,805 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:17:40,977 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:17:40,979 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:17:41,381 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:17:41,418 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:17:41,418 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:17:41,921 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:17:41,952 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:17:41,954 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:17:42,647 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:17:42,844 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:17:42,845 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:17:43,424 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:17:43,565 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:17:43,565 - INFO - Image processing completed successfully.
+2024-10-16 02:18:04,611 - INFO - Loaded pre-trained YOLOv5 model: yolov5x successfully
+2024-10-16 02:18:04,629 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:18:06,233 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:18:06,504 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:18:06,504 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:18:09,105 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:18:09,202 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:18:09,204 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:18:11,900 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:18:11,929 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:18:11,945 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:18:14,668 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:18:14,920 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:18:14,920 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:18:17,181 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:18:17,471 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:18:17,473 - INFO - Image processing completed successfully.
+2024-10-16 02:20:55,002 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:20:55,014 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:20:55,487 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:20:55,763 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:20:55,763 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:20:56,011 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:20:56,046 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:20:56,046 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:20:56,285 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:20:56,335 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:20:56,348 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:20:56,639 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:20:56,826 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:20:56,841 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:20:57,140 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:20:57,307 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:20:57,308 - INFO - Image processing completed successfully.
+2024-10-16 02:21:11,992 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:21:11,997 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:21:12,238 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:21:12,422 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:21:12,422 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:21:12,950 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:21:12,984 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:21:12,984 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:21:13,222 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:21:13,259 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:21:13,259 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:21:13,505 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:21:13,674 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:21:13,675 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:21:14,076 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:21:14,238 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:21:14,238 - INFO - Image processing completed successfully.
+2024-10-16 02:21:28,819 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:21:28,828 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:21:29,054 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:21:29,213 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:21:29,213 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:21:29,389 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:21:29,452 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:21:29,452 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:21:30,125 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:21:30,151 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:21:30,157 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:21:30,410 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:21:30,606 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:21:30,607 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:21:31,073 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:21:31,219 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:21:31,219 - INFO - Image processing completed successfully.
+2024-10-16 02:21:41,440 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:21:41,454 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:21:41,713 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:21:41,873 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:21:41,873 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:21:42,263 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:21:42,314 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:21:42,315 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:21:42,562 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:21:42,589 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:21:42,590 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:21:42,864 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:21:43,054 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:21:43,055 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:21:43,457 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:21:43,677 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:21:43,679 - INFO - Image processing completed successfully.
+2024-10-16 02:22:47,753 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:22:47,763 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:22:48,234 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:22:48,402 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:22:48,403 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:22:48,585 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:22:48,622 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:22:48,622 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:22:48,862 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:22:48,887 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:22:48,888 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:22:49,235 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:22:49,437 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:22:49,437 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:22:49,825 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:22:49,983 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:22:49,983 - INFO - Image processing completed successfully.
+2024-10-16 02:23:49,831 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:23:49,842 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:23:50,172 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:23:50,367 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:23:50,367 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:23:50,773 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:23:50,827 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:23:50,827 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:23:51,092 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:23:51,124 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:23:51,125 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:23:51,390 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:23:51,590 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:23:51,591 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:23:51,956 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:23:52,140 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:23:52,140 - INFO - Image processing completed successfully.
+2024-10-16 02:24:16,431 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:24:16,447 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:24:16,764 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:24:16,963 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:24:16,964 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:24:17,149 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:24:17,181 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:24:17,181 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:24:17,624 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:24:17,656 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:24:17,665 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:24:17,973 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:24:18,148 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:24:18,148 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:24:18,440 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:24:18,598 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:24:18,600 - INFO - Image processing completed successfully.
+2024-10-16 02:27:35,449 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:27:35,457 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:27:35,723 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:27:35,911 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:27:35,911 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:27:36,142 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:27:36,175 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:27:36,175 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:27:36,524 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:27:36,556 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:27:36,556 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:27:36,830 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:27:37,007 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:27:37,007 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:27:37,405 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:27:37,551 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:27:37,551 - INFO - Image processing completed successfully.
+2024-10-16 02:27:49,689 - INFO - Loaded pre-trained YOLOv5 model: yolov5s successfully
+2024-10-16 02:27:49,689 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:27:49,992 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:27:50,199 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:27:50,199 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:27:50,554 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:27:50,596 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:27:50,597 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:27:50,806 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:27:50,850 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:27:50,850 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:27:51,101 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:27:51,273 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:27:51,273 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:27:51,756 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:27:51,928 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:27:51,929 - INFO - Image processing completed successfully.
+2024-10-16 02:28:12,895 - INFO - Loaded pre-trained YOLOv5 model: yolov5m successfully
+2024-10-16 02:28:12,895 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:28:13,400 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:28:13,555 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:28:13,555 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:28:13,938 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:28:13,972 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:28:13,972 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:28:14,538 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:28:14,573 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:28:14,573 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:28:15,342 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:28:15,657 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:28:15,658 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:28:16,840 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:28:17,161 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:28:17,162 - INFO - Image processing completed successfully.
+2024-10-16 02:28:29,195 - INFO - Loaded pre-trained YOLOv5 model: yolov5x successfully
+2024-10-16 02:28:29,206 - INFO - Processing image: @lobelia4cosmetics_10040.jpg (1/5)
+2024-10-16 02:28:30,990 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:28:31,223 - INFO - Saved detection results for image: @lobelia4cosmetics_10040.jpg
+2024-10-16 02:28:31,226 - INFO - Processing image: @lobelia4cosmetics_10041.jpg (2/5)
+2024-10-16 02:28:33,188 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:28:33,279 - INFO - Saved detection results for image: @lobelia4cosmetics_10041.jpg
+2024-10-16 02:28:33,281 - INFO - Processing image: @lobelia4cosmetics_10042.jpg (3/5)
+2024-10-16 02:28:35,463 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:28:35,504 - INFO - Saved detection results for image: @lobelia4cosmetics_10042.jpg
+2024-10-16 02:28:35,504 - INFO - Processing image: @lobelia4cosmetics_10043.jpg (4/5)
+2024-10-16 02:28:37,719 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:28:38,062 - INFO - Saved detection results for image: @lobelia4cosmetics_10043.jpg
+2024-10-16 02:28:38,062 - INFO - Processing image: @lobelia4cosmetics_10044.jpg (5/5)
+2024-10-16 02:28:40,456 - DEBUG - Ran object detection on image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:28:40,691 - INFO - Saved detection results for image: @lobelia4cosmetics_10044.jpg
+2024-10-16 02:28:40,691 - INFO - Image processing completed successfully.
+2024-10-16 02:30:38,702 - ERROR - Error loading model or extracting detections: Cannot find callable yolov11 in hubconf
+2024-10-16 02:30:42,383 - ERROR - Error loading model or extracting detections: Cannot find callable yolov11 in hubconf
+2024-10-16 03:39:28,200 - ERROR - Error loading model or extracting detections: Cannot find callable yolov11 in hubconf
+2024-10-16 03:40:05,381 - ERROR - Error loading model or extracting detections: Cannot find callable yolov11 in hubconf
+2024-10-16 03:40:32,946 - ERROR - Error loading model or extracting detections: Cannot find callable yolov11 in hubconf
+2024-10-16 03:41:10,113 - ERROR - Error loading model or processing images: Cannot find callable yolov11 in hubconf

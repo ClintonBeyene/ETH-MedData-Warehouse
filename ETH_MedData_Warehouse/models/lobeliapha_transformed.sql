@@ -14,5 +14,6 @@ SELECT
     "Telegram Address",
     Address,
     "Phone Number",
-    "Delivery Fee"
+    "Delivery Fee",
+    "Media Path"
 FROM filtered_data
